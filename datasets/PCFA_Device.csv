@@ -1,0 +1,1854 @@
+id,name,brand_id,url_part,category_id
+10,"Liquid X2",4,acer_liquid_x2,1
+11,"Liquid Zest Plus",4,acer_liquid_zest_plus,1
+15,"ZenFone 5 ZE620KL",6,asus_zenfone_5_2018,1
+17,"Zenfone Max (M1) ZB555KL",6,asus_zenfone_max_m1_zb555kl,1
+20,"Liquid E2 Duo",4,acer_liquid_e2_duo,1
+24,"neoTouch P400",4,acer_neotouch_p400,1
+25,"Liquid e",4,acer_liquid_e,1
+43,"Aquaris X",35,bq_aquaris_x,1
+44,Maya,34,bluboo_maya,1
+48,X6,34,bluboo_x6,1
+52,Terra,37,bravis_terra,1
+57,"Cat S60",41,caterpillar_cat_s60,1
+62,"А502 Aurum",61,ergo_a502_aurum,1
+63,A7,58,effire_a7,1
+80,"Power Plus XXL FS530",68,fly_power_plus_xxl_fs530,1
+81,Onyx,65,explay_onyx,1
+88,S5140,74,ginzzu_s5140,1
+89,"RS74 Dual",74,ginzzu_rs74_dual,1
+98,X650,73,e_ten_glofiish_x650,1
+106,G500+,73,e_ten_g500p,1
+113,X600,73,e_ten_glofiish_x600,1
+116,A1,86,geotel_a1,1
+117,Note,86,geotel_note,1
+120,"Gpower 1",84,gfive_gpower_1,1
+130,HG04,95,huadoo_hg04,1
+131,10,98,honor_10,1
+132,7С,98,honor_7c,1
+135,"Elite X3",97,hp_elite_x3,1
+146,"Spark 2",103,highscreen_spark_2,1
+147,Tasty,103,highscreen_tasty,1
+148,"Power Five EVO",103,highscreen_power_five_evo,1
+150,"Boost 3 SE",103,highscreen_boost_3se,1
+151,"ICE 2",103,highscreen_ice_2,1
+153,"Zera S Power",103,highscreen_zera_s_power,1
+154,"Alpha Ice",103,highscreen_alpha_ice,1
+156,U3,125,iuni_u3,1
+159,Smartphone,126,jelly_smartphone,1
+162,"S3 Advanced",129,jiayu_s3,1
+166,"Basco M500 3G",130,jinga_basco_m500_3g,1
+171,G2,129,jiayu_g2,1
+172,G3,129,jiayu_g3,1
+178,"Pure 2",154,m_horse_pure_2,1
+180,"Pure 1",154,m_horse_pure_1,1
+183,London,156,marshall_london,1
+195,K18,173,newman_k18,1
+201,F7,185,oppo_f7,1
+206,"Find 7",185,oppo_find_7,1
+209,S3030,189,own_s3030,1
+213,"Pacific 454",190,oysters_pacific_454,1
+236,M910,215,s_tell_m910,1
+238,M477,215,s_tell_m477,1
+240,U1,224,smartisan_u1,1
+241,M1,224,smartisan_m1,1
+243,"Nut Pro 2 4/32/64",224,smartisan_nut_pro_2,1
+246,"AQUOS PHONE Xx 303SH Mini",230,sharp_aquos_phone_xx_303sh_mini,1
+248,"Aquos Crystal X",230,sharp_aquos_crystal_x,1
+254,"AQUOS Phone SH-930W",230,sharp_aquos_phone_sh930w,1
+257,"AQUOS SH837W",230,sharp_aquos_sh837w,1
+262,"Galaxy S9 Exynos",227,samsung_galaxy_s9,1
+263,"Galaxy S9 Plus Snapdragon",227,samsung_galaxy_s9_plus,1
+264,"Galaxy J2 (2018) J250F/DS",227,samsung_galaxy_j2_2018,1
+265,"Galaxy A6 SM-A600FZ",227,samsung_galaxy_a6,1
+267,E400,232,senseit_e400,1
+268,A109,232,senseit_a109,1
+276,"Neffos C5",243,tp_link_neffos_c5,1
+277,"Neffos C5L TP601A",243,tp_link_neffos_c5l,1
+279,"Neffos Y5L",243,tp_link_neffos_y5l,1
+288,"Portege G500",244,toshiba_portege_g500,1
+296,Mix,258,ulefone_mix,1
+297,"Mix 2",258,ulefone_mix_2,1
+298,S7,258,ulefone_s7,1
+300,"Power 3",258,ulefone_power_3,1
+303,Metal,258,ulefone_metal,1
+307,"Be Touch 2",258,ulefone_be_touch_2,1
+308,Paris,258,ulefone_paris,1
+309,"Be Touch 3",258,ulefone_be_touch_3,1
+311,X1,259,umi_x1,1
+312,Z6,279,zoji_z6,1
+313,Z7,279,zoji_z7,1
+315,"Blade V9 3/32",281,zte_blade_v9,1
+319,"Nubia Z18 Mini",281,zte_nubia_z18_mini,1
+320,Z1,282,zuk_z1,1
+321,Z2,282,zuk_z2,1
+322,"Про 3",283,bilain_pro_3,1
+324,"Смарт 5",283,bilain_smart_5,1
+328,E400,283,beeline_e400,1
+329,"Смарт 3",283,bilain_smart_3,1
+330,Про,283,beeline_pro,1
+333,"Pro 4",283,beeline_pro_4,1
+334,"Smart 8",283,beeline_smart_8,1
+340,733,285,mts_733,1
+342,Evo,285,mts_evo,1
+345,916,285,mts_916,1
+354,Viva,285,mts_viva,1
+355,Fit,285,mts_fit,1
+356,970,285,mts_970,1
+359,972,285,mts_972,1
+363,"Smart Run 4G",285,mts_smart_run_4g,1
+364,"Smart Sprint 4G",285,mts_smart_sprint_4g,1
+365,"Smart Race 4G",285,mts_smart_race_4g,1
+366,"Smart Start 2",285,mts_smart_start_2,1
+367,"Smart Surf 4G",285,mts_smart_surf_4g,1
+368,"Smart Surf 2 4G",285,mts_smart_surf_2_4g,1
+370,"Z2 Pro 4/64",282,zuk_z2_pro,1
+371,Edge,282,zuk_edge,1
+373,"Login 3",284,megafon_login_3_sm,1
+376,"SP-A20i Mint",284,megafon_sp_a20i_mint,1
+377,Login,284,megafon_login_sp_a1,1
+385,"Login 2",284,megafon_login_2,1
+387,Optima,284,megafon_optima,1
+388,Login+,284,megafon_login_plus,1
+393,"ZP999 Pro",280,zopo_zp999_pro,1
+395,"ZP900S Leader",280,zopo_zp900s_leader,1
+402,"ZP300+ Field Plus",280,zopo_zp300_plus_field_plus,1
+404,"ZP900 Leader",280,zopo_zp900_leader,1
+406,ZP980,280,zopo_zp980_scorpio,1
+407,C2,280,zopo_c2_aliyun,1
+412,ZP998,280,zopo_zp998,1
+416,ZP990+,280,zopo_zp990_plus,1
+417,ZP980+,280,zopo_zp980_plus,1
+418,ZP920,280,zopo_zp920,1
+424,YotaPhone,276,yotaphone,1
+425,"YotaPhone 2",276,yota_yotaphone_2,1
+426,"Redmi S2",275,xiaomi_redmi_s2,1
+428,"Redmi Note 5 Pro",275,xiaomi_redmi_note_5_pro,1
+429,"Redmi Note 5 3/32",275,xiaomi_redmi_note_5,1
+430,"Mi Mix 2S 6/128",275,xiaomi_mi_mix_2s,1
+434,"Swift 2",273,wileyfox_swift_2,1
+435,"Swift 2 Plus",273,wileyfox_swift_2_plus,1
+436,"Swift 2 X",273,wileyfox_swift_2_x,1
+437,Swift,273,wileyfox_swift,1
+438,Storm,273,wileyfox_storm,1
+439,Spark,273,wileyfox_spark,1
+440,"Spark X",273,wileyfox_spark_x,1
+444,X3,270,vphone_x3,1
+453,CROSS,259,umi_cross,1
+456,Hammer,259,umi_hammer,1
+458,IRON,259,umi_iron,1
+461,Power,258,ulefone_power,1
+463,Future,258,ulefone_future,1
+464,U200,257,uhans_u200,1
+465,U100,257,uhans_u100,1
+467,"Iron Pro",259,umi_iron_pro,1
+471,"Rome X",259,umi_rome_x,1
+472,Touch,259,umi_touch,1
+473,Super,259,umi_super,1
+474,London,259,umi_london,1
+476,VK700,267,vkworld_vk700,1
+477,"VK700 PRO",267,vkworld_vk700_pro,1
+478,"T1 Plus Kratos",267,vkworld_t1_plus_kratos,1
+479,"Mix Plus",267,vkworld_mix_plus,1
+482,Tiger,258,ulefone_tiger,1
+483,Gemini,258,ulefone_gemini,1
+484,"Power 2",258,ulefone_power_2,1
+485,"Gemini Pro",258,ulefone_gemini_pro,1
+486,T1,258,ulefone_t1,1
+489,A101,257,uhans_a101,1
+491,H5000,257,uhans_h5000,1
+494,A6,257,uhans_a6,1
+495,i8,257,uhans_a65a2593b8d8183,1
+497,"Plus E",259,umi_plus_e,1
+498,Max,259,umi_max,1
+501,Z,259,umi_z,1
+505,"Armor X",258,ulefone_armor_x,1
+506,"Xplay 5",266,vivo_xplay_5,1
+509,"XPlay 6",266,vivo_xplay_6,1
+510,X9,266,vivo_x9,1
+512,V5,266,vivo_v5,1
+515,"V5 Plus",266,vivo_v5_plus,1
+519,"X9s Plus",266,vivo_x9s_plus,1
+525,MX,257,uhans_mx,1
+526,"С NOTE",259,umi_c_note,1
+527,V500,265,viewsonic_v500,1
+531,"Ascent Ti Damascus Steel",264,vertu_ascent_ti_damascus_steel,1
+538,"Impress Eagle",263,vertex_impress_eagle,1
+540,"Impress Mars",263,vertex_impress_mars,1
+541,"Impress Grip",263,vertex_impress_grip,1
+544,"Impress Lion 4G",263,vertex_impress_lion_4g,1
+545,"Impress Luck",263,vertex_impress_luck,1
+561,"S720T 3N M2U",254,tcl_s720t_3n_m2u,1
+569,"Apollo Lite",262,vernee_apollo_lite,1
+570,Thor,262,vernee_thor,1
+571,Mars,262,vernee_mars,1
+574,"Thor E",262,vernee_thor_e,1
+577,"Thor Plus",262,vernee_thor_plus,1
+581,"A1 Pro",260,umidigi_a1_pro,1
+584,"C Note 2",260,umidigi_c_note_2,1
+585,G,260,umidigi_g,1
+586,С2,260,umidigi_s2,1
+587,S,260,umidigi_s,1
+589,"S2 Lite",260,umidigi_s2_lite,1
+597,Urban,252,tele2_urban,1
+599,Mini,252,tele2_mini,1
+600,Midi,252,tele2_midi,1
+602,"Midi 1.1",252,tele2_midi_1_1,1
+603,"Maxi LTE",252,tele2_maxi_lte,1
+605,"Midi LTE",252,tele2_midi_lte,1
+609,"Neffos X1 2/16",243,tp_link_neffos_x1,1
+610,"Neffos X1 Max 3/32",243,tp_link_neffos_x1_max,1
+611,"Neffos X1 Lite",243,tp_link_neffos_x1_lite,1
+612,"Neffos C7",243,tp_link_neffos_c7,1
+614,"Neffos C5A",243,tp_link_neffos_c5a,1
+615,"Prime 5.0 LTE",250,tesla_prime_5_0_lte,1
+619,"X-driver Quad TM-4082R",249,texet_tm_4082r_x_driver_quad,1
+621,"X-line TM-5006",249,texet_x_line_tm_5006,1
+622,TM-5005,249,texet_tm_5005,1
+628,W3s,248,thl_w3s,1
+629,W3,248,thl_w3,1
+630,V9,248,thl_v9,1
+642,W100,248,thl_w100,1
+644,"W8 Beyond",248,thl_w8_beyond,1
+645,W8+,248,thl_w8_plus,1
+649,W7S,248,thl_w7s,1
+650,W200,248,thl_w200,1
+653,"X-basic TM-4072",249,texet_tm_4072,1
+655,"X-driver TM-4104R",249,texet_tm_4104r,1
+657,TM-3204R,249,texet_tm_3204r,1
+658,"X-navi TM-4672",249,texet_tm_4672_x_navi,1
+659,"X-basic 2 TM-4272",249,texet_tm_4272_x_basic_2,1
+661,"X-medium TM-4572",249,texet_tm_4572_x_medium,1
+662,"IX-Mini TM-4182",249,texet_tm_4182_ix_mini,1
+664,W8S,248,thl_w8s,1
+666,T100S,248,thl_t100,1
+670,W200S,248,thl_w200s,1
+671,T11,248,thl_t11,1
+672,T200,248,thl_t200,1
+675,5000,248,thl_5000,1
+676,TM-5003,249,texet_tm_5003,1
+677,4400,248,thl_4400,1
+679,"T6 Pro",248,thl_t6_pro,1
+682,4000,248,thl_4000,1
+683,2015,248,thl_2015,1
+684,5000T,248,thl_5000t,1
+703,SX1,229,siemens_sx1,1
+709,A200,232,senseit_a200,1
+714,IS-03,230,sharp_is03,1
+721,"AQUOS Phone SH-01D",230,sharp_aquos_phone_sh_01d,1
+722,С65,229,siemens_c65,1
+727,C75,229,siemens_c75,1
+743,"Touch HD2",238,t_mobile_touch_hd2,1
+747,"Xperia XA2 Ultra Н4213",221,sony_xperia_xa2_ultra,1
+748,"Xperia XA2 H3113",221,sony_xperia_xa2,1
+750,"Xperia XZ2 Compact",221,sony_xz2_compact,1
+751,"Xperia XZ2",221,sony_xz2,1
+755,"Evo V7",211,roverpc_evo_v7,1
+756,"Xperia neo",220,sony_ericsson_xperia_neo,1
+760,K750i,220,sony_ericsson_k750i,1
+761,K790i,220,sony_ericcson_k790i,1
+763,W700i,220,sony_ericsson_w700i,1
+767,"Xperia X1",220,sony_ericsson_xperia_x1,1
+768,G502,220,sony_ericsson_g502,1
+770,C702,220,sony_ericsson_c702,1
+773,"Xperia X10",220,sony_ericsson_xperia_x10,1
+776,Vivaz,220,sony_ericsson_vivaz,1
+777,"Xperia X8",220,sony_ericsson_xperia_x8,1
+780,"Xperia arc",220,sony_ericsson_xperia_arc,1
+781,"Xperia PLAY",220,sony_ericsson_xperia_play,1
+782,"Xperia pro",220,sony_ericsson_xperia_pro,1
+785,"Xperia mini pro",220,sony_ericsson_xperia_mini_pro,1
+786,"WT18i Walkman",220,sony_ericsson_wt18i_walkman,1
+789,"Xperia ray",220,sony_ericsson_xperia_ray,1
+790,"Xperia active",220,sony_ericsson_xperia_active,1
+791,"Live with Walkman",220,sony_ericsson_live_with_walkman,1
+792,"Xperia arc S",220,sony_ericsson_xperia_arc_s,1
+793,"Xperia neo V",220,sony_ericsson_xperia_neo_v,1
+809,X18i,219,star_x18i,1
+812,X26i,219,star_x26i,1
+813,N9770,219,star_n9770,1
+814,i9270,219,star_i9270,1
+815,V12+,219,star_v12_plus,1
+817,S7589,219,star_s7589,1
+821,W450,219,star_w450,1
+825,S9,219,star_s9,1
+831,U5,219,turbopad_turbo_x_dream,1
+833,"Evo X8",211,roverpc_evo_x8,1
+839,"Impress Noda",218,stark_impress_noda,1
+851,"Q5 4G",214,runbo_q5_4g,1
+852,"F1 Magnetic",214,runbo_f1_magnetic,1
+853,Q5,214,runbo_q5,1
+854,S110,205,qtek_s110,1
+858,9000,205,qtek_9000,1
+859,"Mos1 Max",207,ramos_mos1_max,1
+861,Mos1,207,ramos_mos1,1
+864,"VOYAGER RG310",213,ruggear_voyager_rg310,1
+866,8310,205,qtek_8310,1
+870,8500,205,qtek_8500,1
+889,"Quest 507 Octa",206,qumo_quest_507_octa,1
+893,"Q Terra",204,qiku_q_terra,1
+904,EX780L,195,phicomm_ex780l,1
+906,"Clue 630",195,phicomm_clue_630,1
+912,"MultiPhone 4040 DUO",201,prestigio_multiphone_4040_duo,1
+915,"MultiPhone 4020 DUO",201,prestigio_multiphone_4020_duo,1
+916,"MultiPhone 4500 DUO",201,prestigio_multiphone_4500_duo,1
+919,"MultiPhone 5044 DUO",201,prestigio_multiphone_5044_duo,1
+920,"MultiPhone 4055 DUO",201,prestigio_multiphone_4055_duo,1
+922,"MultiPhone 3540 DUO",201,prestigio_multiphone_3540_duo,1
+923,"MultiPhone 5430",201,prestigio_multiphone_5430,1
+926,"MultiPhone 3400 DUO",201,prestigio_multiphone_pap3400_duo,1
+935,"MultiPhone 5503 DUO",201,prestigio_multiphone_5503_duo,1
+937,"MultiPhone 5453 DUO",201,prestigio_multiphone_5453_duo,1
+941,"MultiPhone 3450 DUO",201,prestigio_multiphone_3450_duo,1
+945,"Multiphone 5550 DUO",201,prestigio_multiphone_5550_duo,1
+951,"Grace X3",201,prestigio_grace_x3,1
+952,"Muze C3 MultiPhone 3504",201,prestigio_muze_c3,1
+953,"Muze D3 PSP3530DUO",201,prestigio_muze_d3,1
+954,"Grace Q5",201,prestigio_grace_q5,1
+956,"Grace S5 LTE",201,prestigio_grace_s5_lte,1
+957,"Muze A7 PSP7530DUO",201,prestigio_muze_a7,1
+959,"Muze K5  PSP5509DUO",201,prestigio_muze_k5,1
+960,"Muze E3 PSP3531DUO",201,prestigio_muze_e3,1
+967,"Wize G3 PSP3510",201,prestigio_wize_g3_psp3510,1
+978,"King 7",200,pptv_king_7,1
+993,Finder,185,oppo_finder,1
+995,"Find 5",185,oppo_find_5,1
+996,"Clover R815",185,oppo_clover_r815,1
+1017,"IM-A800S Vega LTE",193,pantech_im_a800s_vega_lte,1
+1018,Burst,193,pantech_burst,1
+1019,"IM-A830S Vega Racer 2",193,pantech_im_a830s_vega_racer_2,1
+1025,"IM-A870 Vega Iron",193,pantech_im_a870_vega_iron,1
+1029,R11,185,oppo_r11,1
+1043,K10,188,oukitel_k10,1
+1048,"San Francisco",186,orange_san_francisco,1
+1053,"6.1  TA-1043",177,nokia_6_2018,1
+1055,"7 plus",177,nokia_7_plus,1
+1056,"8110 4G",177,nokia_8110_4g,1
+1063,"X1 X-MEN",175,no_1_x1_x_men,1
+1064,"6 6GB RAM",182,oneplus_6,1
+1065,One,182,oneplus_one,1
+1066,Two,182,oneplus_two,1
+1067,"X E1003",182,oneplus_x,1
+1068,3,182,oneplus_3,1
+1069,3T,182,oneplus_3t,1
+1070,"5 6/64",182,oneplus_5,1
+1071,"5T 6/64",182,oneplus_5t,1
+1102,N1,173,newman_n1,1
+1103,N2,173,newman_n2,1
+1109,"NS 5006",180,nous_ns_5006,1
+1110,"NS 5004",180,nous_ns_5004,1
+1112,"NS 6",180,nous_ns_6,1
+1114,S10,179,nomu_s10,1
+1115,S20,179,nomu_s20,1
+1120,"i5001 EVO M3",178,nomi_i5001_evo_m3,1
+1122,i500,178,nomi_i500,1
+1124,i501,178,nomi_i501,1
+1126,"i503 Jump White",178,nomi_i503_jump_white,1
+1127,"i504 Dream",178,nomi_i504_dream,1
+1128,"i508 Energy",178,nomi_i508_energy,1
+1153,"Moto C Plus 1/16",166,motorola_moto_c_plus,1
+1154,"Moto Z2 Play (2017) 3/32",166,motorola_moto_z_play_2017,1
+1155,"Moto E (4th Gen)",166,motorola_moto_e_4nd_gen,1
+1156,"Moto G (3rd Gen) 2/16",166,motorola_moto_g_3rd_gen,1
+1157,"Moto X Force Droid turbo 2",166,motorola_moto_x_force,1
+1158,"Moto X Pure Edition  XT1575",166,motorola_moto_x_pure_edition,1
+1159,"Moto Z",166,motorola_moto_z,1
+1160,"Moto Z Force",166,motorola_moto_z_force,1
+1162,"DROID Turbo",166,motorola_droid_turbo,1
+1163,"Moto X (2nd Gen)",166,motorola_moto_x_2nd_gen,1
+1164,"RAZR MAXX",166,motorola_razr_maxx,1
+1165,"ELECTRIFY  2",166,motorola_electrify_2,1
+1167,"Moto X",166,motorola_x,1
+1168,"Droid Maxx",166,motorola_droid_maxx,1
+1169,"PHOTON Q",166,motorola_photon_q,1
+1170,"ATRIX HD",166,motorola_atrix_hd,1
+1171,"DROID RAZR HD",166,motorola_droid_razr_hd,1
+1183,"ATRIX 2",166,motorola_atrix_2,1
+1184,"DROID RAZR",166,motorola_droid_razr,1
+1185,"PHOTON 4G",166,motorola_photon_4g,1
+1187,"Milestone 3",166,motorola_milestone_3,1
+1195,"DROID 2 Global",166,motorola_droid_2_global,1
+1198,"DROID 2",166,motorola_droid_2,1
+1207,"CLIQ XT",166,motorola_cliq_xt,1
+1209,CLIQ,166,motorola_cliq,1
+1211,DROID,166,motorola_droid,1
+1222,"MOTOMING A1200",166,motorola_motoming_a1200,1
+1237,C200,166,motorola_c200,1
+1238,E398,166,motorola_e398,1
+1240,"RAZR V3",166,motorola_razr_v3,1
+1259,Milestone,166,motorola_milestone,1
+1265,"Milestone XT720",166,motorola_milestone_xt720,1
+1272,Defy,166,motorola_defy,1
+1274,BRAVO,166,motorola_bravo,1
+1279,"ATRIX 4G",166,motorola_atrix_4g,1
+1280,"DROID BIONIC",166,motorola_droid_bionic,1
+1283,ATRIX,166,motorola_atrix,1
+1287,"DROID 3",166,motorola_droid_3,1
+1290,Defy+,166,motorola_defy_plus,1
+1291,RAZR,166,motorola_razr,1
+1298,"DROID 4",166,motorola_droid_4,1
+1299,"DROID RAZR MAXX",166,motorola_droid_razr_maxx,1
+1300,"Defy XT",166,motorola_defy_xt,1
+1304,"RAZR HD",166,motorola_razr_hd,1
+1305,"DROID RAZR MAXX HD",166,motorola_droid_razr_maxx_hd,1
+1306,"DROID RAZR M",166,motorola_droid_razr_m,1
+1309,"DROID Mini",166,motorola_droid_mini,1
+1310,"Moto G",166,motorola_moto_g,1
+1311,"DROID Ultra",166,motorola_droid_ultra,1
+1313,"Moto G (2nd Gen)",166,motorola_moto_g_2nd_gen,1
+1314,"Moto Maxx",166,motorola_moto_maxx_xt1255,1
+1315,"Moto E (2nd Gen)",166,motorola_moto_e_2nd_gen,1
+1316,"Moto X Play XT1562",166,motorola_moto_x_play,1
+1317,"Moto X Style XT1572",166,motorola_moto_x_style,1
+1319,"Moto G Play (4th Gen) XT1607",166,motorola_moto_g_play_4th_gen_xt1607,1
+1320,"Moto M",166,motorola_moto_m,1
+1321,"Moto Z Play",166,motorola_moto_z_play,1
+1332,"Lumia 650",161,microsoft_lumia_650,1
+1333,"Lumia 435",161,microsoft_lumia_435,1
+1334,"Lumia 640 XL DS",161,microsoft_lumia_640_xl_ds,1
+1335,"Lumia 640 DS",161,microsoft_lumia_640_ds,1
+1336,"Lumia 430",161,microsoft_lumia_430,1
+1339,"Lumia 535 DS",161,microsoft_lumia_535_dual_sim,1
+1340,"Lumia 950",161,microsoft_lumia_950,1
+1341,"Lumia 950 XL",161,microsoft_lumia_950_xl,1
+1342,"Lumia 550",161,microsoft_lumia_550,1
+1343,"Lumia 532 DS",161,microsoft_lumia_532_ds,1
+1346,"Dual 5",160,micromax_dual_5,1
+1347,"Canvas Juice A1 Plus Q4260",160,micromax_canvas_juice_a1_plus_q4260,1
+1348,"Canvas 2 (2017) Q4310",160,micromax_canvas_2_2017_q4310,1
+1350,"Canvas Juice A1 Q4251",160,mmicromax_canvas_juice_a1_q4251,1
+1351,"Bolt Q341",160,micromax_bolt_q341,1
+1352,"Bolt Q383",160,micromax_bolt_q383,1
+1358,"D303  Bolt",160,micromax_d303_bolt,1
+1359,"Canvas Blaze 4G+ Q414",160,micromax_canvas_blaze_4g_q414,1
+1362,"Canvas Juice 2 AQ5001",160,micromax_canvas_juice_2,1
+1363,"Canvas Spark Q380",160,micromax_canvas_spark,1
+1364,"Bolt A79",160,micromax_a79_bolt,1
+1370,"Canvas Fire 2 A104",160,micromax_a104_canvas_fire_2,1
+1372,"Canvas Fire A093",160,micromax_canvas_fire_a093,1
+1373,"Bolt D320",160,micromax_bolt_d320,1
+1375,"Bolt D340",160,micromax_bolt_d340,1
+1376,"Canvas Fire 3 A107",160,micromax_a107_canvas_fire_3,1
+1378,"Canvas Xpress 2 E313",160,micromax_canvas_xpress_2_e313,1
+1379,"Canvas Pace 4G Q415",160,micromax_canvas_pace_4g_q415,1
+1385,"Canvas Spark 3 Q385",160,micromax_canvas_spark_3_q385,1
+1390,"Bolt Juice  Q3551",160,micromax_bolt_juice_q3551,1
+1396,"Canvas Power 2 Q398",160,micromax_canvas_power_2_q398,1
+1397,M6s,159,meizu_m6s,1
+1399,Alpha,158,maze_alpha,1
+1406,"One Pro X800",150,letv_one_pro,1
+1407,"Le 1S",150,letv_le_1s,1
+1409,"One X600",150,letv_one_x600,1
+1411,"Le Pro 3 Elite X722",147,leeco_le_pro_3_elite_x722,1
+1412,"Le 2 x620",147,leeco_le_2,1
+1414,"Le Max 2 4/32",147,leeco_le_max_2,1
+1415,"Cool1 Dual (C103/C106/R116)",147,leeco_cool1,1
+1416,"Le Pro 3 4GB",147,leeco_le_pro_3,1
+1417,"Le S3 X522",147,leeco_le_s3,1
+1418,"Cool Changer 1c",147,leeco_cool_changer_1c,1
+1419,"Le Pro 3 AI 4/32",147,leeco_le_pro_3_ai,1
+1420,M9,146,leagoo_m9,1
+1423,T1,146,leagoo_t1,1
+1424,"M5 Plus",146,leagoo_m5_plus,1
+1425,M8,146,leagoo_m8,1
+1426,"M8 Pro",146,leagoo_m8_pro,1
+1427,"Lead 1",146,leagoo_lead_1,1
+1430,"Elite 2",146,leagoo_elite_2,1
+1431,"Elite 1",146,leagoo_elite_1,1
+1432,"Elite 5",146,leagoo_elite_5,1
+1433,"Alfa 1",146,leagoo_alfa_1,1
+1434,"Shark 1",146,leagoo_shark_1,1
+1435,M5,146,leagoo_m5,1
+1436,"Z5 Lte",146,leagoo_z5,1
+1440,"Pulse S800",145,laude_s800_pulse,1
+1441,"KIICAA Power",146,leagoo_kiicaa_power,1
+1443,"S8 Pro",146,leagoo_s8_pro,1
+1444,"KIICAA Mix",146,leagoo_kiicaa_mix,1
+1446,T5,146,leagoo_t5,1
+1447,Z6,146,leagoo_z6,1
+1451,"Discovery V11",143,land_rover_discovery_v11,1
+1452,"N2 PTT",143,land_rover_n2_ptt,1
+1461,"Hydro Elite",142,kyocera_hydro_elite,1
+1462,Brigadier,142,kyocera_brigadier,1
+1465,"DuraForce E6560",142,kyocera_duraforce,1
+1473,"Basco L3",130,jinga_basco_l3,1
+1474,"G2 Dual Core",129,jiayu_g2_dual_core,1
+1476,G2S,129,jiayu_g2s,1
+1477,"G4 Advanced",129,jiayu_g4_advanced,1
+1478,"G4 Standart",129,jiayu_g4,1
+1479,G3S,129,jiayu_g3s,1
+1481,"G5 Standart",129,jiayu_g5,1
+1484,"G5 Advanced",129,jiayu_g5_advanced,1
+1485,G2F,129,jiayu_g2f,1
+1486,"G4S Advanced",129,jiayu_g4s_advenced,1
+1487,F1,129,jiayu_f1,1
+1488,G3C,129,jiayu_g3c,1
+1491,"G4S Standart",129,jiayu_g4s,1
+1496,"K1 Turbo",137,kingzone_k1,1
+1500,V8,128,jiake_v8,1
+1505,"G5S Advanced",129,jiayu_g5s_advanced,1
+1511,U2,125,iuni_u2,1
+1516,"Fire 2",135,keneksi_fire_2,1
+1540,"SPACER 2s",132,just5_spacer_2s,1
+1555,Cosmo,103,highscreen_cosmo,1
+1556,"Jet Duo",103,highscreen_jet_duo,1
+1584,"Alpha GTR",103,highscreen_alpha_gtr,1
+1585,"Alpha GT",103,highscreen_alpha_gt,1
+1586,Explosion,103,highscreen_explosion,1
+1587,Blast,103,highscreen_blast,1
+1588,Strike,103,highscreen_strike,1
+1590,Boost,103,highscreen_boost,1
+1591,Spark,103,highscreen_spark,1
+1596,"Omega Q",103,highscreen_omega_q,1
+1598,"Alpha Rage",103,highscreen_alpha_rage,1
+1599,"Alpha R",103,highscreen_alpha_r,1
+1600,"Boost 2",103,highscreen_boost_2,1
+1601,"Omega Prime Mini",103,highscreen_omega_prime_mini,1
+1605,i3000,119,inew_i3000,1
+1613,"Boost 2 SE",103,highscreen_boost_2_se,1
+1614,Thor,103,highscreen_thor,1
+1615,"Zera F",103,highscreen_zera_f,1
+1616,"Zera S",103,highscreen_zera_s,1
+1618,"Zera F rev.S",103,highscreen_zera_f_rev_s,1
+1619,Spider,103,highscreen_spider,1
+1620,"Zera S rev.S",103,highscreen_zera_s_rev_s,1
+1621,M560,118,infocus_m560,1
+1622,M512,118,infocus_m512,1
+1624,M2,118,infocus_m2,1
+1626,M810,118,infocus_m810,1
+1627,Spade,103,highscreen_spade,1
+1629,WinWin,103,highscreen_winwin,1
+1631,Verge,103,highscreen_verge,1
+1636,"Power Five",103,highscreen_power_five,1
+1637,"Boost 3",103,highscreen_boost_3,1
+1638,"Power Four",103,highscreen_power_four,1
+1639,Bay,103,highscreen_bay,1
+1640,"Pure J",103,highscreen_pure_j,1
+1641,"Power Ice",103,highscreen_power_ice,1
+1643,"Power Rage",103,highscreen_power_rage,1
+1644,D6000,116,innos_d6000,1
+1646,"Power Rage Evo",103,highscreen_power_rage_evo,1
+1647,"Power Ice Evo",103,highscreen_power_ice_evo,1
+1648,"Power Five Max",103,highscreen_power_five_max,1
+1650,"Power Ice Max",103,highscreen_power_ice_max,1
+1651,"Easy L",103,highscreen_easy_l,1
+1652,"Pure Power",103,highscreen_pure_power,1
+1653,"Easy S Pro",103,highscreen_easy_s_pro,1
+1655,"Easy XL",103,highscreen_easy_xl,1
+1657,"Easy Power",103,highscreen_easy_power,1
+1663,X8,114,iocean_x8,1
+1667,Picasso,113,iqm_picasso,1
+1668,"iPAQ h1910",97,hp_ipaq_h1910,1
+1710,"iPAQ 614",97,hp_ipaq_614,1
+1726,"9 Lite",98,honor_9_lite,1
+1727,"7A Pro",98,honor_7a_pro,1
+1728,"X50 TS",106,hasee_x50_ts,1
+1732,A2,102,hisense_a2,1
+1737,W718,100,haier_w718,1
+1738,HW-W910,100,haier_hw_w910,1
+1741,W701,100,haier_w701,1
+1750,M10,89,garmin_asus_nuvifone_m10,1
+1751,A50,89,garmin_asus_nuvifone_a50,1
+1752,A10,89,garmin_asus_nuvifone_a10,1
+1753,"Desire 12 2/16",96,htc_desire_12,1
+1758,4G,87,general_mobile_4g,1
+1759,"P20 Emily-L29",94,huawei_p_20,1
+1760,"P20 Pro CLT-L29",94,huawei_p_20_pro,1
+1761,"P20 Lite ANE-LX1",94,huawei_p20_lite,1
+1763,H5,93,hummer_h5,1
+1765,S16,92,homtom_s16,1
+1766,HT17,92,homtom_ht17,1
+1767,HT16,92,homtom_ht16,1
+1769,S8,92,homtom_s8,1
+1770,HT50,92,homtom_ht50,1
+1771,HT6,92,homtom_ht6,1
+1772,HT7,92,homtom_ht7,1
+1773,HT3,92,homtom_ht3,1
+1774,"HT3 Pro",92,homtom_ht3_pro,1
+1775,"HT7 Pro",92,homtom_ht7_pro,1
+1776,HT20,92,homtom_ht20,1
+1778,"S9 Plus",92,homtom_s9_plus,1
+1779,S7,92,homtom_s7,1
+1782,"GSmart G1 Guru",83,gigabyte_gsmart_guru_g1,1
+1786,"GSmart Rio R1",83,gigabyte_gsmart_rio_r1,1
+1787,"GSmart Maya M1",83,gigabyte_gsmart_maya_m1,1
+1791,"GSmart G1345 Sunfish",83,gigabyte_gsmart_g1345,1
+1796,"GSmart i350",83,gigabyte_gsmart_i350,1
+1810,"GSmart S1205",83,gigabyte_gsmart_s1205_cougar,1
+1811,"GSmart G1355 Flounder",83,gigabyte_gsmart_g1355_flounder,1
+1812,"GSmart G1342 Houston",83,gigabyte_gsmart_g1342_houston,1
+1814,"GSmart GS202",83,gigabyte_gsmart_gs202,1
+1815,"GSmart Maya M1 v2",83,gigabyte_gsmart_maya_m1_v2,1
+1816,"Gsmart Aku A1",83,gigabyte_aku_a1,1
+1818,"Gsmart Roma R2",83,gigabyte_gsmart_roma_r2,1
+1824,"GSmart Classic",83,gigabyte_gsmart_classic,1
+1825,A9,75,gretel_a9,1
+1826,A7,75,gretel_a7,1
+1827,A6,75,gretel_a6,1
+1830,Infinity,65,explay_infinity,1
+1835,S55,75,gretel_s55,1
+1836,GT6000,75,gretel_gt6000,1
+1839,"RS7 Dual",74,ginzzu_rs7_dual,1
+1844,Sky,65,explay_sky,1
+1846,"Advance TV",65,explay_advance_tv,1
+1848,"Infinity II",65,explay_infinity_ii,1
+1854,"HD Quad",65,explay_hd_quad,1
+1855,"Sky Plus",65,explay_sky_plus,1
+1856,Communicator,65,explay_communicator,1
+1857,Five,65,explay_five,1
+1859,S10,80,gionee_s10,1
+1860,"Elife E7",80,gionee_elife_e,1
+1867,"A1 Plus",80,gionee_a1_plus,1
+1871,"Loox 720",72,fs_pocket_loox_720,1
+1876,Golf,65,explay_golf,1
+1879,N1,65,explay_n1,1
+1893,А600,65,explay_a600,1
+1894,Atom,65,explay_atom,1
+1898,Fresh,65,explay_fresh,1
+1901,K1,78,gome_k1,1
+1902,4GAME,65,explay_4game,1
+1904,Bit,65,explay_bit,1
+1905,Pulsar,65,explay_pulsar,1
+1906,Tornado,65,explay_tornado,1
+1907,"Pixel 2 XL",77,google_pixel_2_xl,1
+1908,"Nexus 4",77,google_nexus_4,1
+1909,"Nexus 6",77,google_nexus_6,1
+1910,"Nexus 6P",77,google_nexus_6p,1
+1911,"Nexus One",77,google_nexus_one,1
+1912,"Nexus S",77,google_nexus_s,1
+1914,"Galaxy Nexus",77,google_galaxy_nexus,1
+1915,"Nexus 5",77,nexus_5,1
+1916,"Nexus 5X",77,google_nexus_5x,1
+1917,Pixel,77,google_pixel,1
+1918,"Pixel XL",77,google_pixel_xl,1
+1919,"Pixel 2",77,google_pixel_2,1
+1922,Indigo,65,explay_indigo,1
+1928,Craft,65,explay_craft,1
+1938,S5042,64,etuline_s5042,1
+1939,"Enso S5084",64,etuline_enso_s5084,1
+1953,"Optimum 5004",69,flycat_optimum_5004,1
+1960,S4010,53,dns_s4010,1
+1962,S4003,53,innos_i3,1
+1965,S4503Q,53,dns_s4503q,1
+1974,S4503,53,dns_s4503,1
+1975,S3502,53,dns_s3502,1
+1977,S5301,53,dns_s5301,1
+1978,S5301Q,53,dns_s5301q,1
+1979,S4004M,53,dns_s4004m,1
+1983,S5008,53,dns_s5008,1
+1985,S4508,53,dns_s4508,1
+1986,S4705,53,dns_s4705,1
+1992,"iDxD5 3G",52,digma_idxd5_3g,1
+1995,"Linx A400 3G",52,digma_linx_a400_3g,1
+1996,"FIRST XS350 2G",52,digma_first_xs350,1
+1997,"Linx A501",52,digma_linx_a501,1
+1999,"CITI Z560 4G",52,digma_citi_z560_4g,1
+2000,"Linx A500 3G",52,digma_linx_a500_3g,1
+2002,"Vox S507 4G",52,digma_vox_s507_4g,1
+2008,"Ixion MS550",51,dexp_ixion_ms550,1
+2011,"Ixion ML145 Snatch SE",51,dexp_ixion_ml145_snatch_se,1
+2012,"Ixion X145 Nova",51,dexp_ixion_x145_nova,1
+2013,"Ixion X147 Puzzle",51,dexp_ixion_x147_puzzle,1
+2015,"Ixion X255 Hotline Black",51,dexp_ixion_x255_hotline_black,1
+2018,"Ixion M150 Storm",51,dexp_ixion_m150_storm,1
+2024,"Ixion X 4.5 LTE",51,dexp_ixion_x_lte_4_5,1
+2029,"Ixion ML 5",51,dexp_ixion_ml,1
+2030,"Ixion XL 5",51,dexp_ixion_xl_5,1
+2031,"Ixion ML 4.7",51,dexp_ixion_ml_4_7,1
+2032,"Ixion MS 5",51,dexp_ixion_ms_5,1
+2042,"Ixion E2 4",51,dexp_ixion_e2_4,1
+2043,"Ixion XL145",51,dexp_ixion_xl145,1
+2044,"Ixion XL140 Flash",51,dexp_ixion_xl140_flash,1
+2046,"Ixion M350 Rock",51,dexp_ixion_m350_rock,1
+2048,"Ixion ML150 Amper M",51,dexp_ixion_ml150_amper_m,1
+2052,"Ixion X355 Zenith",51,dexp_ixion_x355_zenith,1
+2053,"Ixion EL350 Volt",51,dexp_ixion_el350_volt,1
+2054,"Ixion M450 Neon",51,dexp_ixion_m450_neon,1
+2055,"Ixion E240 Strike 2",51,dexp_ixion_e240_strike_2,1
+2060,"Ixion P350 Tundra",51,dexp_ixion_p350_tundra,1
+2062,"Ixion M355 Mercury",51,dexp_ixion_m355_mercury,1
+2063,GS-454,50,dex_gs_454,1
+2081,Aero,49,dell_aero,1
+2083,"X18 Plus",48,cubot_x18_plus,1
+2086,Alto,37,bravis_alto,1
+2090,"Great God F1",45,coolpad_great_god_f1,1
+2098,"Cool Changer S1 4/64",45,cool_changer_s1,1
+2101,Solo,37,bravis_solo,1
+2102,Trend,37,bravis_trend,1
+2103,Omega,37,bravis_omega,1
+2107,S6,44,conquest_s6,1
+2109,Xtouch,34,bluboo_xtouch,1
+2111,"Picasso 3G",34,bluboo_picasso,1
+2112,"Aquaris E4.5 Ubuntu Edition",35,bq_aquaris_e4_5_ubuntu_edition,1
+2113,"Aquaris M5",35,bq_aquaris_m5,1
+2115,"A503 Joy",37,bravis_a503_joy,1
+2116,"Maya Max",34,bluboo_maya_max,1
+2119,Dual,34,bluboo_dual,1
+2122,S8,34,bluboo_s8,1
+2125,"Aquaris M5.5",35,bq_aquaris_m5_5,1
+2127,"Aquaris A4.5",35,bq_aquaris_a4_5,1
+2128,"Aquaris X5",35,bq_aquaris_x5,1
+2129,"Aquaris X5 Plus 3/32",35,bq_aquaris_x5_plus,1
+2130,"Aquaris U Plus 2/16",35,bq_aquaris_u_plus,1
+2131,"Aquaris U Lite",35,bq_aquaris_u_lite,1
+2138,"Casio G'zOne TYPE-L CA-201L",40,casio_g_zone_type_l_cal21,1
+2144,"BV9000 Pro",32,blackview_bv9000_pro,1
+2148,Z3,31,blackberry_z3,1
+2149,Passport,31,blackberry_passport,1
+2151,"Torch 9860",31,blackberry_torch_9860,1
+2152,"Storm 2 9520",31,blackberry_storm_2_9520,1
+2153,"Bold 9700",31,blackberry_bold_9700,1
+2158,"Storm 9530 / 9530T",31,blackberry_storm_9530_9530t,1
+2190,Z10,31,blackberry_z10,1
+2191,Q10,31,blackberry_q10,1
+2192,Z30,31,blackberry_z30,1
+2195,Priv,31,blackberry_priv,1
+2197,KEYone,31,blackberry_keyone,1
+2200,"BQ-5525 Practic",36,bq_bq_5525_practic,1
+2201,"BQ-5500L Advance",36,bq_bq_5522_next5a6e0e01eb4f3,1
+2203,"BQ-5003L Shark Pro",36,bq_mobile_bq_5003l_shark_pro,1
+2205,"BQ-5508L Next LTE",36,bq_mobile_bq_5508l_next_lte,1
+2210,EF82,30,benq_siemens_ef82,1
+2211,C81,30,benq_siemens_c81,1
+2212,E71,30,benq_siemens_e71,1
+2214,T47,29,benq_t47,1
+2218,P51,29,benq_p51,1
+2235,N828,15,amoi_n828,1
+2248,"Benefit A3",9,ark_benefit_a3,1
+2249,"Benefit M7",9,ark_benefit_m7,1
+2250,"Benefit S502 Plus",9,ark_benefit_s502_plus,1
+2252,"Benefit M5 Plus",9,ark_benefit_m5_plus,1
+2253,"Benefit S451 Dual Sim",9,ark_benefit_s451_dual_sim,1
+2255,L760C,15,amoi_l760c,1
+2258,neoTouch,4,acer_neotouch,1
+2260,"beTouch E200",4,acer_betouch_e200,1
+2261,"beTouch E101",4,acer_betouch_e101,1
+2262,Liquid,4,acer_liquid,1
+2265,"Benefit I3",9,ark_benefit_i3,1
+2267,"Benefit A1",9,ark_benefit_a1,1
+2269,"Impulse P1 Plus",9,ark_impulse_p1_plus,1
+2271,"Benefit M8 LTE",9,ark_benefit_m8_lte,1
+2272,"Benefit M503 LTE",9,ark_benefit_m503_lte,1
+2273,"Impulse P2 LTE",9,ark_impulse_p2_lte,1
+2275,"Fire Phone",17,amazon_fire_phone,1
+2278,"Liquid mt",4,acer_liquid_mt_metal,1
+2283,"Benefit M506",9,ark_benefit_m506,1
+2295,"Liquid Express",4,acer_liquid_express,1
+2297,"Liquid Gallant Duo",4,acer_liquid_gallant_duo,1
+2302,"Liquid S1 Duo",4,acer_liquid_s1_duo,1
+2303,"Liquid S2",4,acer_liquid_s2,1
+2304,"AG #HASHTAG",22,ag_mobile_ag_hashtag,1
+2306,"Liquid E700",4,acer_liquid_e700_trio,1
+2312,"Liquid Z500 Dual Sim",4,acer_liquid_z500_dual_sim,1
+2313,X1,21,agm_x1,1
+2314,A8,21,agm_a8,1
+2318,"Liquid Z410 Duo",4,acer_liquid_z410_duo,1
+2320,"Liquid Z630",4,acer_liquid_z630,1
+2321,"Liquid Z330 Duo",4,acer_liquid_z330_duo,1
+2324,"Liquid Z220",4,acer_liquid_z220,1
+2337,3v,19,alcatel_3v,1
+2338,"1C OT-5009D",19,alcatel_1c_ot_5009d,1
+2341,Rio,18,allcall_rio,1
+2342,Madrid,18,allcall_madrid,1
+2349,"iPhone X",12,apple_iphone_x,1
+2354,"iPhone 2G 4GB",12,apple_iphone_4gb,1
+2355,"iPhone 2G 8GB",12,apple_iphone_8gb,1
+2358,"iPhone 3G 8GB",12,apple_iphone_3g_8gb,1
+2359,"iPhone 3G 16GB",12,apple_iphone_3g_16gb,1
+2361,"iPhone 3GS",12,apple_iphone_3gs,1
+2363,"iPod touch 3G",12,apple_ipod_touch_3g,1
+2364,"iPhone 4",12,apple_iphone4,1
+2365,"iPod touch 4G",12,apple_ipod_touch_4g,1
+2366,"iPhone 4S",12,apple_iphone_4s,1
+2367,"iPhone 5",12,apple_iphone_5,1
+2368,"iPod touch 5G",12,apple_ipod_touch_5g,1
+2370,"iPhone 5s",12,apple_iphone_5s,1
+2371,"iPhone 6",12,iphone_6,1
+2375,"50 Platinum 4G",11,archos_50_platinum_4g,1
+2380,"iPhone 6 Plus",12,iphone_6_plus,1
+2381,"iPhone 6s",12,iphone_6s,1
+2382,"iPhone 6s Plus",12,iphone_6s_plus,1
+2383,"iPhone SE",12,apple_iphone_se,1
+2384,"iPhone 7",12,apple_iphone_7,1
+2385,"iPhone 7 Plus",12,apple_iphone_7_plus,1
+2386,"iPhone 8",12,apple_iphone_8,1
+2387,"iPhone 8 Plus",12,apple_iphone_8_plus,1
+2394,"Mate 7",231,servo_mate_7,1
+2397,Dante,236,santin_dante,1
+2400,Armor,236,santin_armor,1
+2401,"Aquos S2 4/64 (SS2)",230,sharp_aquos_s2,1
+2409,"myTouch 4G Slide",238,t_mobile_mytouch_4g_slide,1
+2412,"Sidekick 4G",238,t_mobile_sidekick_4g,1
+2415,"myTouch 4G",238,t_mobile_mytouch_4g,1
+2475,"Grand S II",281,zte_grand_s_ii,1
+2476,"Nubia Z9 Max",281,zte_nubia_z9_max,1
+2480,"Nubia Z5S mini",281,zte_nubia_z5s_mini,1
+2485,Skate,281,zte_skate,1
+2487,"X880 Libra",281,zte_libra,1
+2494,Score,281,zte_score,1
+2501,"V880E Dual Sim",281,zte_v880e,1
+2502,"V970 Grand X",281,zte_grand_x,1
+2504,V790,281,zte_v790,1
+2505,V889M,281,zte_v889m,1
+2506,"Blade III",281,zte_blade_iii,1
+2507,"V985 Grand Era",281,zte_v985_grand_era,1
+2508,"Nubia Z5",281,zte_nubia_z5,1
+2512,"V970M Grand X",281,zte_v970m,1
+2518,"Grand S",281,zte_grand_s,1
+2521,"V975 Geek",281,zte_v975_geek,1
+2523,V807,281,zte_v807,1
+2524,V967S,281,zte_v967s,1
+2525,"Grand Memo",281,zte_grand_memo,1
+2529,"Nubia Z5 mini",281,zte_nubia_z5_mini,1
+2530,"Leo S1",281,zte_leo_s1,1
+2531,Q705U,281,zte_q705u,1
+2538,"Blade L2",281,zte_blade_l2,1
+2539,"V5 RedBull",281,zte_v5_redbul,1
+2540,"Nubia Z7 mini",281,zte_nubia_z7_mini,1
+2541,"Nubia Z7 Max",281,zte_nubia_z7_max,1
+2542,V811,281,zte_v811w,1
+2543,V815W,281,zte_v815w,1
+2544,"V5 Max",281,zte_v5_max,1
+2545,"V830 Blade G Lux",281,zte_v830_blade_g_lux,1
+2546,V5S,281,zte_v5s,1
+2547,"Blade Q Lux 4G",281,zte_blade_q_lux_4g,1
+2550,"Blade HN",281,zte_blade_hn,1
+2551,"Nubia Z9 mini",281,zte_nubia_z9_mini,1
+2552,"Blade v2 Lite",281,zte_blade_v2_lite,1
+2553,"Blade L3",281,zte_blade_l3,1
+2554,"Star 2",281,zte_star_2,1
+2555,"Blade L370",281,zte_blade_l370,1
+2557,"Nubia Z9",281,zte_nubia_z9,1
+2558,"Blade A3",281,zte_blade_a3,1
+2559,"Blade X5",281,zte_blade_x5,1
+2560,"V5 Pro N939ST",281,zte_v5_pro,1
+2561,"Blade AF3",281,zte_blade_af3,1
+2562,"Blade X7",281,zte_blade_x7,1
+2563,"Blade S7",281,zte_blade_s7,1
+2567,"Blade L4 Pro",281,zte_blade_l4_pro,1
+2568,"Blade X3",281,zte_blade_x3,1
+2569,"Blade L4",281,zte_blade_l4,1
+2570,"Blade GF3",281,zte_blade_gf3,1
+2574,"Blade A465",281,zte_blade_a465,1
+2576,"Blade A5 Pro",281,zte_blade_a5_pro,1
+2577,"Blade A510",281,zte_blade_a510,1
+2578,"Axon 7 A2017G",281,zte_axon_7,1
+2579,"Nubia Z11 Mini",281,zte_nubia_z11_mini,1
+2580,"Blade V7",281,zte_blade_v7,1
+2581,"Blade A610",281,zte_blade_a610,1
+2582,"Nubia Z11 4/64",281,zte_nubia_z11,1
+2583,"Blade A910",281,zte_blade_a910,1
+2584,"Blade V7 Lite",281,zte_blade_v7_lite,1
+2585,"Nubia N1",281,zte_nubia_n1,1
+2588,"Blade L5 Plus",281,zte_blade_l5_plus,1
+2589,"Nubia Z11 Mini S",281,zte_nubia_z11_mini_s,1
+2592,"Blade A515",281,zte_blade_a515,1
+2594,"Blade L110",281,zte_blade_l110,1
+2595,"Blade A310",281,zte_blade_a310,1
+2596,"Blade A210",281,zte_blade_a210,1
+2597,"Blade A2 Plus",281,zte_blade_a2_plus,1
+2599,Z10,281,zte_z10,1
+2601,"Blade A601",281,zte_blade_a601,1
+2602,"Nubia Z17 Mini 4/64",281,zte_nubia_z17_mini,1
+2603,"Blade V8 Pro",281,zte_blade_v8_pro,1
+2606,"Blade V8 Mini",281,zte_blade_v8_mini,1
+2609,"Nubia Z17 6 GB RAM",281,zte_nubia_z17,1
+2611,"Blade V7 Plus",281,zte_blade_v7_plus,1
+2613,"Blade A6 Lite",281,zte_blade_a6_lite,1
+2614,"Blade A6",281,zte_blade_a6,1
+2628,"Nubia Z17S",281,zte_nubia_z17s,1
+2630,"Nubia M2 NX551J",281,zte_nubia_m2,1
+2635,P535,6,asus_p535,1
+2651,Padfone,6,asus_padfone,1
+2652,"Padfone 2",6,asus_padfone_2,1
+2653,"Padfone Infinity",6,asus_padfone_infinity,1
+2654,"New Padfone Infinity",6,asus_new_padfone_infinity,1
+2655,"Fonepad Note 6",6,asus_fonepad_note_6,1
+2656,"ZenFone 5",6,asus_zenfone_5,1
+2658,"ZenFone 4  A400CG",6,asus_zenfone_4,1
+2659,"ZenFone 6",6,asus_zenfone_6,1
+2661,"PadFone S",6,asus_padfone_s_pf500kl,1
+2662,"Zenfone 4 A450CG",6,asus_zenfone_4_a450cg,1
+2664,"ZenFone 2 Laser ZE601KL",6,asus_zenfone_2_laser_ze601kl,1
+2665,"ZenFone 2 ZE551ML",6,asus_zenfone_2,1
+2666,"ZenFone 2 Laser ZE500KL",6,asus_zenfone_2_laser,1
+2667,"Zenfone Go ZC500TG",6,asus_zenfone_go,1
+2668,"ZenFone C ZC451CG",6,asus_zenfone_c,1
+2669,"ZenFone 2 ZE500CL",6,asus_zenfone_2_ze500cl,1
+2670,"ZenFone 2 Laser ZE500KG",6,asus_zenfone_2_laser_ze500kg,1
+2671,"ZenFone Selfie ZD551KL",6,asus_zenfone_selfie_zd551kl,1
+2672,"ZenFone Go ZC451TG",6,asus_zenfone_go_zc451tg,1
+2673,"ZenFone Max ZC550KL (MSM8916)",6,asus_zenfone_max_zc550kl,1
+2674,"Pegasus 2 Plus  X550",6,asus_pegasus_2_plus_x550,1
+2677,"ZenFone Go ZB452KG",6,asus_zenfone_go_zb452kg,1
+2678,"Zenfone Go ZB551KL",6,asus_zenfone_go_zb551kl,1
+2679,"Zenfone 3 ZE552KL 3/32",6,asus_zenfone_3_ze552kl,1
+2682,"Zenfone 3 Laser ZC551KL",6,asus_zenfone_3_laser_zc551kl,1
+2683,"Zenfone 3 Max ZC520TL 2/16/32",6,asus_zenfone_3_max,1
+2684,"Pegasus 5000",6,asus_pegasus_5000,1
+2685,"Live G500TG",6,asus_live_g500tg,1
+2686,"ZenFone 3 ZE520KL",6,asus_zenfone_3_ze520kl,1
+2687,"ZenFone Go ZB500KL",6,asus_zenfone_go_zb500kl,1
+2688,"ZenFone Go ZB450KL",6,asus_zenfone_go_zb450kl,1
+2689,"ZenFone 3 Max ZC553KL",6,asus_zenfone_3_max_zc553kl,1
+2691,"ZenFone Go ZB500KG",6,asus_zenfone_go_zb500kg,1
+2692,"ZenFone 3 Zoom ZE553KL",6,asus_zenfone_3_zoom_ze553kl,1
+2693,"ZenFone 3 AR ZS571KL",6,asus_zenfone_3_ar_zs571kl,1
+2695,"ZenFone 4 Max ZC554KL",6,asus_zenfone_4_max_zc554kl,1
+2697,"Zenfone Live ZB501KL",6,asus_zenfone_live_zb501kl,1
+2698,"ZenFone 4 (ZE554KL) 4/64",6,asus_zenfone_4_ze554kl,1
+2699,"Asus ZenFone 4 Pro (ZS551KL)",6,asus_zenfone_4_pro_zs551kl,1
+2701,"ZenFone 4 Selfie Pro (ZD552KL) 3/64",6,asus_zenfone_4_selfie_pro_zd552kl,1
+2703,"Zenfone Max Plus (M1) ZB570TL",6,asus_zenfone_max_plus_m1_zb570tl,1
+2707,"ZenFone Max Pro M1 ZB602KL 3/32",6,asus_zenfone_max_pro_m1_zb602kl,1
+2710,"Mi 6X 4/64",275,xiaomi_mi6x,1
+2711,"Mi 8",275,xiaomi_mi8,1
+2712,"Mi A2 6/128",275,xiaomi_mi_a2,1
+2715,"Redmi 5 2/16",275,xiaomi_redmi_5,1
+2716,"Redmi 5 Plus 3/32",275,xiaomi_redmi_5_plus,1
+2717,"Mi 6 6/64",275,xiaomi_mi_6,1
+2718,"Mi Max 2 4/64",275,xiaomi_mi_max_2,1
+2720,"Redmi Note 5A 3/32",275,xiaomi_redmi_note_5a,1
+2721,"Mi Note 3 4/64",275,xiaomi_mi_note_3,1
+2722,"Mi 5S 3/64",275,xiaomi_mi_5s,1
+2723,"Mi 5S Plus Standart",275,xiaomi_mi_5s_plus,1
+2724,"Mi Note 2 4/64",275,xiaomi_mi_note_2,1
+2725,"Mi 5",275,xiaomi_mi5,1
+2726,"Mi 4S",275,xiaomi_mi4s,1
+2727,"Redmi 3 Pro",275,xiaomi_redmi_3_pro,1
+2728,"Mi Max Standard",275,xiaomi_mi_max,1
+2730,"Redmi 2 Prime",275,xiaomi_redmi_2,1
+2731,"Mi Note",275,xiaomi_mi_note,1
+2732,"Redmi Note 3 Pro Standard",275,xiaomi_redmi_note_3_pro,1
+2733,Redmi,275,xiaomi_red_rice,1
+2734,"Mi 3 TD",275,xiaomi_mi_3_td,1
+2735,"Mi 3",275,xiaomi_mi_3,1
+2736,"Redmi 1S",275,xiaomi_hongmi_1s,1
+2737,"Mi 1S",275,xiaomi_mi_1s,1
+2738,"Redmi Note",275,xiaomi_redmi_note,1
+2739,"Mi 1 Plus",275,xiaomi_mi_one,1
+2740,"Mi 2",275,xiaomi_mi_two,1
+2741,"Mi 2S",275,xiaomi_mi_2s,1
+2744,"Mi 2A",275,xiaomi_mi_2a,1
+2745,"Mi 4 WCDMA",275,xiaomi_mi4,1
+2746,"Redmi Note 4G",275,xiaomi_redmi_note_4g,1
+2747,"Redmi 2",275,xiaomi_redmi_2s,1
+2748,"Mi Note Pro",275,xiaomi_mi_note_pro,1
+2749,"Mi 4i",275,xiaomi_mi_4i,1
+2750,"Redmi Note 2",275,xiaomi_redmi_note_2,1
+2751,"Redmi Note 2 Prime",275,xiaomi_redmi_note_2_prime,1
+2752,"Mi 4c Prime",275,xiaomi_mi4c,1
+2753,"Redmi Note 3 Standard Edition",275,xiaomi_redmi_note_3,1
+2754,"Redmi 3",275,xiaomi_redmi_3,1
+2755,"Redmi 3S",275,xiaomi_redmi_3s,1
+2756,"Redmi Pro Standart",275,xiaomi_redmi_pro,1
+2757,"Redmi 3X",275,xiaomi_redmi_3x,1
+2758,"Redmi Note 4 3/32",275,xiaomi_redmi_note_4,1
+2759,"Mi Mix 4/128",275,xiaomi_mi_mix,1
+2760,"Redmi 4 Standard",275,xiaomi_redmi_4,1
+2761,"Mi 5c",275,xiaomi_mi5c,1
+2762,"Redmi Note 4X Snapdragon 3/32",275,xiaomi_redmi_note_4x,1
+2763,"Redmi 4A",275,xiaomi_redmi_4a,1
+2764,"Redmi 4X 2/16",275,xiaomi_redmi_4x,1
+2765,"Mi Mix 2",275,xiaomi_mi_mix_2,1
+2766,"Mi A1 4/64",275,xiaomi_mi_a1,1
+2767,"Redmi 5A",275,xiaomi_redmi_5a,1
+2796,"Galaxy S8 Exynos",227,samsung_galaxy_s8,1
+2797,"Galaxy S8 Plus Exynos",227,samsung_galaxy_s8_plus,1
+2798,"Galaxy J7 (2017) SM-J730F/DS",227,samsung_samsung_galaxy_j7_2017,1
+2799,"Galaxy J3 (2017) SM-J330F",227,samsung_samsung_galaxy_j3_2017,1
+2800,"Galaxy J5 (2017) SM-J530FZK",227,samsung_samsung_galaxy_j5_2017,1
+2802,"Galaxy Note8 SM-N950F/DS",227,samsung_galaxy_note8_sm_n950f_fd,1
+2804,"Galaxy J7 (2016) SM-J710FN",227,samsung_galaxy_j7_2016_sm_j710fn,1
+2805,"Galaxy A9 Pro (2016) SM-A9100",227,samsung_galaxy_a9_pro_2016_sm_a9100,1
+2806,"Galaxy Note 7",227,samsung_galaxy_note_7,1
+2809,"Galaxy A8 (2016)",227,samsung_galaxy_a8_2016,1
+2810,"Galaxy C5 SM-C5000",227,samsung_galaxy_c5_sm_c5000,1
+2811,"Galaxy C9 Pro",227,samsung_galaxy_c9_pro,1
+2812,"Galaxy Note 5 SM-N920F",227,samsung_galaxy_note_5,1
+2815,"Galaxy Ace 4 Neo SM-G318H/DS",227,samsung_galaxy_ace_4_neo_sm_g318h_ds,1
+2817,"Galaxy Xcover 3 SM-G388F",227,samsung_xcover_3_sm_g388f,1
+2819,"Galaxy A7 (2016) SM-A710F",227,samsung_galaxy_a7_2016_sm_a710f,1
+2821,"Galaxy S6 SM-G920F",227,samsung_sm_g920f_galaxy_s6,1
+2822,"Galaxy S6 Edge SM-G925F",227,samsung_sm_g925f_galaxy_s6_edge,1
+2823,"Galaxy E5 Duos",227,samsung_galaxy_e5_duos,1
+2824,"Galaxy J1 LTE",227,samsung_galaxy_j1_lte,1
+2825,"Galaxy S6 Duos SM-G920FD",227,samsung_sm_g920fd_galaxy_s6_duos,1
+2826,"Galaxy E7 SM-E700F",227,samsung_sm_e700f_galaxy_e7,1
+2829,"Galaxy Star Advance Duos SM-G350E",227,samsung_sm_g350e_galaxy_star_advance,1
+2830,"Galaxy Ace 4 SM-G313H",227,samsung_sm_g313h_galaxy_ace_4_lite,1
+2831,"Galaxy Grand Prime SM-G530H",227,samsung_sm_g530h_galaxy_grand_prime,1
+2832,"Galaxy Ace Style LTE SM-G357FZ",227,samsung_sm_g357fz_galaxy_ace_style_lte,1
+2833,"Galaxy S5 Mini Duos SM-G800H",227,samsung_sm_g800h_galaxy_s5_mini_duos,1
+2835,"Galaxy A5 SM-A500",227,samsung_sm_a500_galaxy_a5,1
+2836,"Galaxy Grand  2 SM-G7102",227,samsung_galaxy_grand_2,1
+2840,"Galaxy S5 SM-G900F",227,samsung_galaxy_s5,1
+2841,"Galaxy Note 3 Neo SM-N7505",227,samsung_galaxy_note_3_neo_lte,1
+2842,"Galaxy Note 3 Neo Duos SM-N7502",227,samsung_gt_n7502_galaxy_note_3_neo_duos,1
+2844,"Galaxy S4 Zoom SM-C101",227,samsung_sm_c101_galaxy_s4_zoom,1
+2845,"Galaxy Core GT-I8262",227,samsung_gt_i8262_galaxy_core,1
+2846,"Galaxy Mega 5.8 Duos GT-I9152",227,samsung_gt_i9152_galaxy_mega_5_8,1
+2847,"Galaxy Mega 6.3 GT-I9200",227,samsung_galaxy_mega_6_3,1
+2848,"Galaxy Ace 3 GT-S7270",227,samsung_galaxy_ace_3,1
+2849,"Galaxy Ace 3 Duos GT-S7272",227,samsung_gt_s7272_galaxy_ace_3,1
+2850,"Galaxy Pocket Neo  GT-S5310",227,samsung_galaxy_pocket_neo,1
+2853,"Galaxy Premier GT-I9260",227,samsung_gt_i_9260_galaxy_premier,1
+2859,"Galaxy S3 mini GT-I8190",227,samsung_gt_i8190_galaxy_s_iii_mini,1
+2863,"Galaxy Beam GT-I8530",227,samsung_gt_i8530_galaxy_beam,1
+2864,"Galaxy Ace GT-S5830i",227,samsung_gt_s5830i_galaxy_ace,1
+2865,"Galaxy S Wi-Fi 4.2 YP-GI1CW",227,samsung_galaxy_s_wi_fi_4_2,1
+2866,"Galaxy Pocket GT-S5300",227,samsung_gt_s5300_galaxy_pocket,1
+2867,"Galaxy Mini GT-S5570i",227,samsung_gt_s5570i_galaxy_mini,1
+2877,"Galaxy S 2 SGH-i777",227,samsung_sgh_i777_galaxy_s_ii,1
+2879,GT-S5610,227,samsung_gt_s5610,1
+2883,"Captivate Glide SGH-i927",227,samsung_sgh_i927_captivate_glide,1
+2885,"Galaxy R GT-I9103",227,samsung_gt_i9103_galaxy_r,1
+2890,"Galaxy Wonder GT-I8150",227,samsung_gt_i8150_galaxy_wonder,1
+2891,"Galaxy Young GT-S5360",227,samsung_gt_s5360_galaxy_young,1
+2892,"Galaxy Ace GT-S5830",227,samsung_gt_s5830_galaxy_ace,1
+2893,"Galaxy Gio GT-S5660",227,samsung_gt_s5660_galaxy_gio,1
+2895,"Galaxy Mini GT-S5570",227,samsung_gt_s5570_galaxy_mini,1
+2896,"Galaxy S scLCD GT-I9003",227,samsung_gt_i9003_galaxy_sl,1
+2899,"Galaxy S 2 GT-I9100",227,samsung_galaxy_s_2_gt_i9100,1
+2901,"Focus SGH-i917",227,samsung_sgh_i917_focus,1
+2903,"Wave 723 GT-S7230",227,samsung_gt_s7230_wave_723,1
+2907,"Xcover GT-B2710",227,samsung_gt_b2710_xcover,1
+2909,"Galaxy 550 GT-I5500",227,samsung_gt_i5500_corby_smartphone,1
+2910,"Wave 525 GT-S5250",227,samsung_gt_s5250_wave_525,1
+2912,"WiTu Pro GT-B7350",227,samsung_gt_b7350_omnia_pro_4,1
+2914,"Captivate SGH-i897",227,samsung_sgh_i897_captivate,1
+2923,"Monte GT-S5620",227,samsung_gt_s5620,1
+2936,GT-S3310,227,samsung_gt_s3310,1
+2963,"WiTu SGH-i900",227,samsung_sgh_i900_witu,1
+2969,SGH-E250,227,samsung_sgh_e250,1
+2990,SGH-i780,227,samsung_sgh_i780,1
+3011,"Omnia II GT-I8000",227,samsung_gt_i8000_omnia_ii,1
+3012,"Star GT-S5230",227,samsung_gt_s5230,1
+3020,"Galaxy Spica GT-I5700",227,samsung_gt_i5700,1
+3037,"Wave GT-S8500",227,samsung_gt_s8500_wave,1
+3039,"Galaxy S GT-I9000",227,samsung_gt_i9000_galaxy_s,1
+3047,"Vibrant SGH-T959",227,samsung_sgh_t959_vibrant,1
+3071,"Galaxy S Plus GT-I9001",227,samsung_gt_i9001_galaxy_s_plus,1
+3074,"Galaxy Y Pro GT-B5510",227,samsung_gt_b5510_galaxy_y_pro,1
+3075,"Wave 3 GT-S8600",227,samsung_gt_s8600_wave_3,1
+3078,"Galaxy Note GT-N7000",227,samsung_gt_n7000_galaxy_note,1
+3081,"Omnia W GT-I8350",227,samsung_gt_i8350_omnia_w,1
+3087,"Galaxy S Wi-Fi 4.0 YP-G1CW",227,samsung_galaxy_s_wi_fi_4_0,1
+3088,"Galaxy S Wi-Fi 5.0 YP-G70CW",227,samsung_galaxy_s_wi_fi_5_0,1
+3091,"Galaxy S 2 HD LTE SHV-E120S",227,samsung_shv_e120s_galaxy_s_ii_hd,1
+3093,"Galaxy Ace Plus GT-S7500",227,samsung_gt_s7500_galaxy_ace_plus,1
+3094,"Galaxy S Advance GT-I9070",227,samsung_gt_i9070_galaxy_s_advance,1
+3095,"Galaxy Y Duos GT-S6102",227,samsung_gt_s6102_galaxy_y_duos,1
+3096,"Galaxy Y Pro Duos GT-B5512",227,samsung_gt_b5512_galaxy_y_pro_duos,1
+3102,"Galaxy S3 GT-I9300",227,samsung_galaxy_s_3,1
+3104,"Galaxy Ace 2 GT-I8160",227,samsung_gt_i8160_galaxy_ace_2,1
+3106,"Galaxy Note 2 GT-N7100",227,samsung_galaxy_note_2,1
+3107,"Galaxy S Duos GT-S7562",227,samsung_gt_s7562_galaxy_s_duos,1
+3108,"Ativ S GT-I8750",227,samsung_gt_i8750_ativ_s,1
+3109,"Galaxy Ace GT-S5830G",227,samsung_gt_s5830g_galaxy_ace,1
+3110,"Galaxy Camera EK-GC100",227,samsung_ek_gc100_galaxy_camera,1
+3113,"Galaxy S2 Plus GT-I9105",227,samsung_gt_9105_galaxy_s2_plus,1
+3114,"Galaxy S4 GT-I9500",227,samsung_gt_i9500_galaxy_s_4,1
+3116,"Galaxy Young Duos  GT-S6312",227,samsung_gt_s6312_galaxy_young_duos,1
+3118,"Galaxy S4 Mini Duos  GT-I9192",227,samsung_gt_i9192_galaxy_s4_mini_duos,1
+3119,"Galaxy S4 Mini GT-I9190",227,samsung_galaxy_s4_mini,1
+3120,"Galaxy Star Duos GT-S5282",227,samsung_gt_s5282_galaxy_star_duos,1
+3122,"Galaxy Win Duos GT-i8552",227,samsung_gt_i8552_galaxy_win_duos,1
+3124,"Galaxy Xcover 2 GT-S7710",227,samsung_gt_s7710_galaxy_xcover_2,1
+3126,"Galaxy Note 3 SM-N900",227,samsung_galaxy_note_3,1
+3128,"Galaxy Star Plus  GT-S7262",227,samsung_gt_s7262_galaxy_star_plus,1
+3131,"Galaxy S5 Active SM-G870A",227,samsung_sm_g870a_galaxy_s5_active,1
+3132,"Galaxy Core 2 Duos SM-G355H",227,samsung_sm_g355h_galaxy_core_2,1
+3133,"Galaxy S5 Duos SM-G900FD",227,samsung_sm_g900fd_galaxy_s5_duos,1
+3134,"Galaxy Alpha SM-G850F",227,samsung_sm_g850_galaxy_alpha,1
+3135,"Galaxy S5 mini SM-G800F",227,samsung_sm_g800_galaxy_s5_mini,1
+3138,"Galaxy Core Prime SM-G360H",227,samsung_sm_g360h_galaxy_core_prime,1
+3139,"Galaxy S3 Neo GT-I9301I",227,samsung_gt_i9301i_galaxy_s3_neo,1
+3141,"Galaxy Note 4 SM-N910H",227,samsung_galaxy_note_4,1
+3144,"Galaxy Ace 4 Lite Duos SM-G313H/DS",227,samsung_sm_g313h_galaxy_ace_4_lite_duos,1
+3147,"Galaxy A3 SM-A300",227,samsung_sm_a300_galaxy_a3,1
+3148,"Galaxy S4 Mini Plus GT-I9192I",227,samsung_gt_i9192i_galaxy_s4_mini_plus,1
+3149,"Galaxy J1  SM-J100H",227,samsung_sm_j100h_galaxy_j1,1
+3150,"Galaxy J5",227,samsung_galaxy_j5_sm_j500h,1
+3151,"Galaxy Core Prime VE SM-G361H/DS",227,samsung_sm_g361h_ds_galaxy_core_prime_ve,1
+3152,"Galaxy Grand Prime VE Duos SM-G531H",227,samsung_galaxy_grand_prime_ve_duos,1
+3153,"Galaxy J7 Dual Sim SM-J700F",227,samsung_galaxy_j7_dual_sim,1
+3154,"Galaxy S6 Edge Plus SM-G928F",227,samsung_galaxy_s6_edge_plus,1
+3157,"Galaxy A5 (2016) SM-A510F",227,samsung_galaxy_a5_2016_sm_a510f,1
+3158,"Galaxy A3 (2016) SM-A310F",227,samsung_galaxy_a3_2016_sm_a310f,1
+3159,"Galaxy S7 SM-G930FD",227,samsung_galaxy_s7,1
+3160,"Galaxy S7 EDGE SM-G935F",227,samsung_galaxy_s7_edge,1
+3161,"Galaxy A9 (2016) SM-A9000",227,samsung_galaxy_a9_2016,1
+3162,"Galaxy J1 mini SM-J105H",227,samsung_galaxy_j1_mini_sm_j105h,1
+3163,"Galaxy J1 (2016) SM-J120F/DS",227,samsung_galaxy_galaxy_j1_2016,1
+3164,"Galaxy J3 (2016) SM-J320F",227,samsung_galaxy_j3_2016_sm_j320f,1
+3165,"Galaxy J5 (2016) SM-J510FN/DS",227,samsung_galaxy_j5_2016_sm_j510fn_ds,1
+3167,"Galaxy J2 Prime SM-G532",227,samsung_galaxy_j2_prime_sm_g532,1
+3168,"Galaxy J5 Prime SM-G570",227,samsung_galaxy_j5_prime_sm_g570,1
+3170,"Galaxy C7 Pro",227,samsung_galaxy_c7_pro,1
+3171,"Galaxy S7 Active SM-G891",227,galaxy_s7_active_sm_g891,1
+3174,"Galaxy J1 Mini Prime (2016) SM-J106F/DS",227,samsung_galaxy_j1_mini_prime_2016_sm_j106f_ds,1
+3175,"Galaxy A5 (2017) SM-A520F/DS",227,samsung_galaxy_a5_2017_sm_a520f_ds,1
+3176,"Galaxy A3  (2017) SM-A320F/DS",227,samsung_galaxy_a3_2017_sm_a320f_ds,1
+3177,"Galaxy A7 (2017) SM-A720F/DS",227,samsung_galaxy_a7_2017_sm_a720f_ds,1
+3181,"Galaxy A8 (2018)",227,samsung_galaxy_a8_2018,1
+3188,"Xperia X",221,sony_xperia_x,1
+3189,"Xperia XA",221,sony_xperia_xa,1
+3190,"Xperia XA Ultra",221,sony_xperia_xa_ultra,1
+3191,"Xperia E5",221,sony_xperia_e5,1
+3192,"Xperia XZ Dual F8332",221,sony_xperia_xz,1
+3193,"Xperia E4 Dual",221,sony_xperia_e4_dual,1
+3194,"Xperia E4",221,sony_xperia_e4,1
+3195,"Xperia M4 Aqua",221,sony_xperia_m4_aqua,1
+3196,"Xperia E4g Dual",221,sony_xperia_e4g_dual,1
+3199,"Xperia E1",221,sony_xperia_e1,1
+3200,"Xperia Z2",221,sony_xperia_z2,1
+3203,"Xperia V",221,sony_xperia_v,1
+3204,"Xperia TX",221,sony_xperia_tx,1
+3205,"Xperia T",221,sony_xperia_t,1
+3206,"Xperia SL",221,sony_xperia_sl,1
+3208,"Xperia Go",221,sony_xperia_go,1
+3209,"Xperia Miro",221,sony_xperia_miro,1
+3210,"Xperia acro S",221,sony_xperia_acro_s,1
+3211,"Xperia S",221,sony_xperia_s,1
+3212,"Xperia U",221,sony_xperia_u,1
+3213,"Xperia P",221,sony_xperia_p,1
+3214,"Xperia sola",221,sony_xperia_sola,1
+3216,"Xperia tipo",221,sony_xperia_tipo,1
+3217,"Xperia tipo dual",221,sony_xperia_tipo_dual,1
+3218,"Xperia ion",221,sony_xperia_ion,1
+3221,"Xperia J",221,sony_xperia_j,1
+3223,"Xperia E",221,sony_xperia_e,1
+3224,"Xperia E dual",221,sony_xperia_e_dual,1
+3225,"Xperia Z",221,sony_xperia_z,1
+3226,"Xperia SP",221,sony_xperia_sp,1
+3227,"Xperia L",221,sony_xperia_l,1
+3228,"Xperia ZL",221,sony_xperia_zl,1
+3229,"Xperia ZR C5503",221,sony_xperia_zr_dogo_c5502_c5503,1
+3230,"Xperia M",221,sony_xperia_m,1
+3231,"Xperia Z Ultra",221,sony_xperia_z_ultra,1
+3232,"Xperia Z1",221,sony_xperia_z1,1
+3233,"Xperia C C2305",221,sony_xperia_c,1
+3235,"Xperia M Dual",221,sony_xperia_m_dual,1
+3236,"Xperia Z1 Compact",221,sony_xperia_z1_compact,1
+3239,"Xperia M2 Dual",221,sony_xperia_m2_dual,1
+3241,"Xperia T3",221,sony_xperia_t3,1
+3242,"Xperia C3",221,sony_xperia_c3,1
+3243,"Xperia M2 Aqua",221,sony_xperia_m2_aqua,1
+3244,"Xperia E3 D2203",221,sony_xperia_e3,1
+3245,"Xperia Z3 Compact D5803,D5833",221,sony_xperia_z3_compact,1
+3246,"Xperia Z3",221,sony_xperia_z3,1
+3247,"Xperia E3 Dual",221,sony_xperia_e3_dual,1
+3248,"Xperia Z3 Dual",221,sony_xperia_z3_dual,1
+3251,"Xperia C4",221,sony_xperia_c4,1
+3252,"Xperia C4 Dual E5333",221,sony_xperia_c4_dual,1
+3253,"Xperia M4 Aqua Dual",221,sony_xperia_m4_aqua_dual,1
+3254,"Xperia Z3+",221,sony_xperia_z3plus,1
+3255,"Xperia M5",221,sony_xperia_m5,1
+3256,"Xperia Z5 Compact",221,sony_xperia_z5_compact,1
+3257,"Xperia C5 Ultra Dual",221,sony_xperia_c5_ultra_dual,1
+3258,"Xperia Z5",221,sony_xperia_z5,1
+3260,"Xperia Z5 Premium Dual",221,sony_xperia_z5_premium_dual,1
+3261,"Xperia Z5 Premium",221,sony_xperia_z5_premium,1
+3262,"Xperia C5 Ultra",221,sony_xperia_c5_ultra,1
+3264,"Xperia X Compact",221,sony_xperia_x_compact,1
+3265,"Xperia XZ Premium",221,sony_xperia_xz_premium,1
+3266,"Xperia XZS",221,sony_xperia_xzs,1
+3267,"Xperia XA1",221,sony_xperia_xa1,1
+3268,"Xperia XA1 Ultra",221,sony_xperia_xa1_ultra,1
+3269,"Xperia L1",221,sony_xperia_l1,1
+3270,"Xperia XZ1  G8341 / G8342",221,sony_xperia_xz1,1
+3271,"Xperia XZ1 Compact",221,sony_xperia_xz1_compact,1
+3272,"Xperia XA1 Plus 3/32",221,sony_xperia_xa1_plus,1
+3273,"Xperia acro HD",220,sony_ericsson_xperia_acro_hd,1
+3276,Zylo,220,sony_ericsson_zylo,1
+3280,C510,220,sony_ericsson_c510,1
+3284,K850i,220,sony_ericsson_k850i,1
+3289,Z710i,220,sony_ericsson_z710i,1
+3294,W810i,220,sony_ericsson_w810i,1
+3297,K510i,220,sony_ericsson_k510i,1
+3298,K770i,220,sony_ericsson_k770i,1
+3307,"Xperia X2",220,sony_ericsson_xperia_x2,1
+3311,Aspen,220,sony_ericsson_aspen,1
+3312,"Xperia X10 Mini Pro",220,sony_ericsson_xperia_x10_mini_pro,1
+3313,"Xperia X10 Mini",220,sony_ericsson_xperia_x10_mini,1
+3326,G5,211,roverpc_g5,1
+3334,"Xenium I908",196,philips_xenium_i908,1
+3335,"Xenium V387 Standart",196,philips_xenium_v387,1
+3340,"Xenium X800",196,philips_xenium_x800,1
+3353,"Xenium X100",196,philips_xenium_x100,1
+3362,W626,196,philips_w626,1
+3363,"Xenium W632",196,philips_xenium_w632,1
+3364,"Xenium W732",196,philips_xenium_w732,1
+3365,"Xenium W336",196,philips_xenium_w336,1
+3368,"Xenium W737",196,philips_xenium_w737,1
+3372,"Xenium W8555",196,philips_xenium_w8555,1
+3375,"Xenium W6610",196,philips_xenium_w6610,1
+3376,S308,196,philips_s308,1
+3382,S396,196,philips_s396,1
+3385,"Xenium V377",196,philips_v377,1
+3386,"S307 CTS307YL/00",196,philips_s307,1
+3387,S326,196,philips_s326,1
+3390,S337,196,philips_s337,1
+3392,"Xenium S386",196,philips_xenium_s386,1
+3394,S327,196,philips_s327,1
+3396,C4,188,oukitel_c4,1
+3397,"U20 Plus",188,oukitel_u20_plus,1
+3400,"U16 Маx",188,oukitel_u16_max,1
+3402,"U7 Max",188,oukitel_u7_max,1
+3403,"K6000 Premium",188,oukitel_k6000_premium,1
+3404,K4000,188,oukitel_k4000,1
+3405,K6000,188,oukitel_k6000,1
+3406,"U7 Pro",188,oukitel_u7_pro,1
+3408,К10000,188,oukitel_k10000,1
+3409,"K6000 Pro",188,oukitel_k6000_pro,1
+3411,C3,188,oukitel_c3,1
+3412,"U7 Plus",188,oukitel_u7_plus,1
+3414,C5,188,oukitel_c5,1
+3415,"К10000 Pro",188,oukitel_k10000_pro,1
+3416,"K6000 Plus",188,oukitel_k6000_plus,1
+3417,U22,188,oukitel_u22,1
+3418,"С8 3G",188,oukitel_c8,1
+3420,K5000,188,oukitel_k5000,1
+3421,"K4000 Plus",188,oukitel_k4000_plus,1
+3422,K8000,188,oukitel_k8000,1
+3429,"Asha 503 DS",177,nokia_asha_503,1
+3432,E52,177,nokia_e52,1
+3433,3210,177,nokia_3210,1
+3434,7650,177,nokia_7650,1
+3441,7710,177,nokia_7710,1
+3450,6020,177,nokia_6020,1
+3452,N70,177,nokia_n70,1
+3465,6233,177,nokia_6233,1
+3468,N73,177,nokia_n73,1
+3472,N91,177,nokia_n91,1
+3476,E50,177,nokia_e50,1
+3479,N80,177,nokia_n80,1
+3485,6300,177,nokia_6300,1
+3488,N95,177,nokia_n95,1
+3489,"6120 classic",177,nokia_6120_classic,1
+3490,E51,177,nokia_e51,1
+3502,"E90 Communicator",177,nokia_e90_communicator,1
+3509,"5310 XpressMusic",177,nokia_5310_xpressmusic,1
+3513,"6500 classic",177,nokia_6500_classic,1
+3515,"3500 classic",177,nokia_3500_classic,1
+3516,E71,177,nokia_e71,1
+3517,"5800 XpressMusic",177,nokia_5800_xpressmusic,1
+3520,"5320 XpressMusic",177,nokia_5320_xpressmusic,1
+3522,N78,177,nokia_n78,1
+3525,E63,177,nokia_e63,1
+3538,"3120 classic",177,nokia_3120_classic,1
+3543,"6720 classic",177,nokia_6720_classic,1
+3546,N900,177,nokia_n900,1
+3557,"5530 XpressMusic",177,nokia_5530_xpressmusic,1
+3558,E72,177,nokia_e72,1
+3563,5230,177,nokia_5230,1
+3564,X6-00,177,nokia_x6,1
+3565,X3-00,177,nokia_x3,1
+3572,1280,177,nokia_1280,1
+3575,"2220 slide",177,nokia_2220_slide,1
+3579,"5235 Comes With Music",177,nokia_5235_comes_with_music,1
+3580,"6303i classic",177,nokia_6303i_classic,1
+3581,C5-00,177,nokia_c5,1
+3582,C3-00,177,nokia_c3,1
+3583,C6-00,177,nokia_c6,1
+3584,E5-00,177,nokia_e5,1
+3585,N8,177,nokia_n8,1
+3586,X2-00,177,nokia_x2,1
+3590,5228,177,nokia_5228,1
+3593,5250,177,nokia_5250,1
+3595,C6-01,177,nokia_c6_01,1
+3596,C5-03,177,nokia_c5_03,1
+3604,N9,177,nokia_n9,1
+3607,"C5-00 5MP",177,nokia_c5_5mp,1
+3608,700,177,nokia_700_zeta,1
+3609,500,177,nokia_500,1
+3613,603,177,nokia_603,1
+3614,"Lumia 800",177,nokia_lumia_800,1
+3615,"Lumia 710",177,nokia_lumia_710,1
+3616,"Asha 201",177,nokia_asha_201,1
+3617,"Asha 300",177,nokia_asha_300,1
+3618,101,177,nokia_101,1
+3620,"Asha 200",177,nokia_asha_200,1
+3622,"Lumia 900",177,nokia_lumia_900,1
+3623,"808 PureView",177,nokia_808_pureview,1
+3626,"Lumia 820",177,nokia_lumia_820,1
+3627,"Lumia 920",177,nokia_lumia_920,1
+3628,"Asha 302",177,nokia_asha_302,1
+3629,"Lumia 510",177,nokia_lumia_510,1
+3630,"Lumia 620",177,nokia_lumia_620,1
+3632,"Lumia 520",177,nokia_lumia_520,1
+3633,"Lumia 822",177,nokia_lumia_822_atlas,1
+3634,"Lumia 720",177,nokia_lumia_720,1
+3635,"Asha 205 Dual Sim",177,nokia_asha_205_dual_sim,1
+3636,"Lumia 925",177,nokia_lumia_925,1
+3637,"Lumia 1020",177,nokia_lumia_1020,1
+3639,"Lumia 1520",177,nokia_lumia_1520,1
+3640,"Lumia 525",177,nokia_lumia_525,1
+3641,XL,177,nokia_xl,1
+3642,X,177,nokia_x_dual_sim,1
+3643,"Lumia 930",177,nokia_lumia_930,1
+3644,"Lumia 630",177,nokia_lumia_630,1
+3645,"Lumia 635",177,nokia_lumia_635,1
+3646,X2,177,nokia_x2_new,1
+3647,"Lumia 530",177,nokia_lumia_530,1
+3648,"Lumia 735",177,nokia_lumia_735,1
+3649,"Lumia 830",177,nokia_lumia_830,1
+3650,"Lumia 730 Dual Sim",177,nokia_lumia_730_dual_sim,1
+3651,"6 TA-1021",177,nokia_6,1
+3652,3,177,nokia_3,1
+3653,5,177,nokia_5,1
+3654,"3310 (2017)",177,nokia_3310_2017,1
+3655,8,177,nokia_8,1
+3656,"2 TA-1029",177,nokia_2,1
+3670,M5s,159,meizu_m5s,1
+3672,M5c,159,meizu_m5c,1
+3673,"Pro 7",159,meizu_pro_7,1
+3674,"M6 Note 3/16/32",159,meizu_m6_note,1
+3675,"M6 2/16",159,meizu_m6,1
+3676,MX5,159,meizu_mx5,1
+3677,"M2 Mini",159,meizu_m2_mini,1
+3679,"Pro 5",159,meizu_pro_5,1
+3680,"M3 Note 2/16",159,meizu_m3_note,1
+3681,"Pro 6",159,meizu_pro_6,1
+3682,"M3s 2/16",159,meizu_m3s,1
+3683,M8,159,meizu_m8_minione,1
+3685,"MX 2-core",159,meizu_mx,1
+3687,MX2,159,meizu_mx2,1
+3689,"M1 Note",159,meizu_m1_note,1
+3690,"MX4 Pro",159,meizu_mx4_pro,1
+3691,MX4,159,meizu_mx4,1
+3693,"M2 Note",159,meizu_m2_note,1
+3694,M3,159,meizu_m3_mini,1
+3695,MX6,159,meizu_mx6,1
+3696,M3E,159,meizu_m3e,1
+3697,"U10 2/16",159,meizu_u10,1
+3699,Max,159,meizu_max,1
+3700,"U20 2/16",159,meizu_u20,1
+3701,"Pro 6 Plus 64GB",159,meizu_pro_6_plus,1
+3702,"M5 Note (M621H, M621Q, M621C, M621M)",159,meizu_m5_note,1
+3704,"M5 2/16",159,meizu_m5,1
+3706,G6,152,lg_g6,1
+3707,"X Power 2",152,lg_x_power_2,1
+3709,"X venture",152,lg_x_venture,1
+3710,"K7 X210DS",152,lg_lg_k7_x210ds,1
+3711,"X Power K220DS",152,lg_x_power_k220ds,1
+3712,V20,152,lg_v20,1
+3713,"K3 LTE  K100DS",152,lg_k3_lte,1
+3714,"Class H650E",152,lg_class_h650e,1
+3715,"Ray X190",152,lg_ray_x190,1
+3716,"X View K500DS",152,lg_x_view_k500ds,1
+3717,K10,152,lg_k10,1
+3718,"G4 H818",152,lg_g4,1
+3719,Spirit,152,lg_spirit,1
+3721,"G4 Stylus H540F",152,lg_g4_stylus,1
+3722,"L60 X145",152,lg_l60_dual,1
+3723,"L80 Dual",152,lg_l80_d380,1
+3726,"L65 Dual",152,lg_l65,1
+3727,G3,152,lg_g3,1
+3728,"G Pro 2",152,lg_g_pro_2,1
+3729,"G3 S",152,lg_g3_s,1
+3731,"G Pro Lite",152,lg_g_pro_lite_dual,1
+3734,"Optimus L5 II Dual",152,lg_optimus_l5ii_dual,1
+3735,"Optimus L7 II",152,lg_optimus_l7ii,1
+3738,"Optimus L3 Dual",152,lg_optimus_l3_dual,1
+3739,"Optimus LTE 2",152,lg_optimus_lte_ii,1
+3741,"Optimus G",152,lg_optimus_g,1
+3743,A290,152,lg_a290,1
+3744,"Optimus L3",152,lg_optimus_l3,1
+3745,"Optimus Vu",152,lg_optimus_vu,1
+3750,"Optimus 3D",152,lg_optimus_3d,1
+3758,"Optimus One",152,lg_optimus_one_p500,1
+3765,GS290,152,lg_gs290,1
+3769,"GT540 Optimus",152,lg_gt540,1
+3815,"Optimus 2X",152,lg_optimus_2x,1
+3816,"Optimus Black",152,lg_optimus_black,1
+3818,"Optimus Me",152,lg_optimus_me_p350,1
+3820,"Optimus Link",152,lg_optimus_net_p690,1
+3821,"Optimus Sol",152,lg_optimus_sol,1
+3822,"Optimus Hub",152,lg_optimus_hub,1
+3826,"Optimus Link Dual Sim",152,lg_optimus_link_dual_sim,1
+3827,"Nitro HD",152,lg_nitro_hd,1
+3830,"Optimus 4X HD",152,lg_optimus_4x_hd,1
+3831,"Optimus L7",152,lg_optimus_l7,1
+3834,"Optimus L9",152,lg_optimus_l9,1
+3837,"Optimus L7 II Dual P715",152,lg_p_715,1
+3838,"Optimus L3 II Dual",152,lg_optimus_l3ii_dual,1
+3840,"Optimus G Pro",152,lg_optimus_g_pro,1
+3843,G2,152,lg_g2,1
+3845,L90,152,lg_l90,1
+3846,"L70 Dual",152,lg_l70_dual,1
+3849,"L Fino",152,lg_l_fino,1
+3850,"L Bello",152,lg_l_bello,1
+3851,"G3 Stylus",152,lg_g3_stylus,1
+3853,"G3 Dual LTE",152,lg_g3_dual_lte,1
+3856,"G Flex 2",152,lg_g_flex_2,1
+3857,Leon,152,lg_leon,1
+3858,Magna,152,lg_magna,1
+3859,"G4c H525N",152,lg_g4c,1
+3860,G4s,152,lg_g4s,1
+3861,V10,152,lg_v10,1
+3863,"K10 LTE K430ds",152,lg_k10_lte,1
+3864,G5,152,lg_g5,1
+3865,"K4 LTE K130E",152,lg_k4,1
+3866,"K8 LTE K350E",152,lg_k8_lte,1
+3867,"X cam",152,lg_x_cam,1
+3871,"K8 (2017)",152,lg_k8_2017,1
+3873,Q6,152,lg_q6,1
+3875,V30,152,lg_v30,1
+3876,"Phab 2 Pro",148,lenovo_phab_2_pro,1
+3877,"Moto G4",148,lenovo_moto_g4,1
+3878,"Vibe S1L A40",148,lenovo_vibe_s1l_a40,1
+3879,C2,148,lenovo_c2,1
+3880,"Phab 2",148,lenovo_phab_2,1
+3882,"Vibe Shot",148,lenovo_vibe_shot,1
+3884,A7000,148,lenovo_a7000,1
+3885,А2010,148,lenovo_a2010,1
+3887,"Vibe P1m",148,lenovo_vibe_p1m,1
+3888,S860,148,lenovo_s860,1
+3889,A859,148,lenovo_a859,1
+3892,S660,148,lenovo_s660,1
+3893,A316i,148,lenovo_a316i,1
+3894,A656,148,lenovo_a656,1
+3896,A516,148,lenovo_a516,1
+3897,S650,148,lenovo_s650,1
+3898,"Vibe X",148,lenovo_vibe_x,1
+3900,A369i,148,lenovo_a369i,1
+3901,A880,148,lenovo_a880,1
+3902,P780,148,lenovo_p780,1
+3904,A660,148,lenovo_a660,1
+3905,P700i,148,lenovo_ideaphone_p700i,1
+3907,P770,148,lenovo_p770,1
+3909,S890,148,lenovo_ideaphone_s890,1
+3918,A750,148,lenovo_a750,1
+3919,A500,148,lenovo_a500,1
+3920,A789,148,lenovo_a789,1
+3921,P700,148,lenovo_p700,1
+3922,K860,148,lenovo_ideaphone_k860,1
+3923,A820,148,lenovo_a820,1
+3924,K900,148,lenovo_ideaphone_k900,1
+3925,S920,148,lenovo_s920,1
+3926,A800,148,lenovo_ideaphone_a800,1
+3930,A706,148,lenovo_a706,1
+3931,A830,148,lenovo_a830,1
+3933,S820,148,lenovo_s820,1
+3935,A850,148,lenovo_a850,1
+3940,A529,148,lenovo_a529,1
+3941,A630t,148,lenovo_a630t,1
+3945,A680,148,lenovo_a680,1
+3946,S850,148,lenovo_s850,1
+3948,"Vibe Z2 Pro",148,lenovo_vibe_z2_pro,1
+3950,"Vibe X2",148,lenovo_vibe_x2,1
+3951,A536,148,lenovo_a536,1
+3952,A606,148,lenovo_a606,1
+3953,A328,148,lenovo_a328,1
+3954,"A8 Golden Warrior",148,lenovo_golden_warrior_a8,1
+3955,A916,148,lenovo_a916,1
+3956,S90,148,lenovo_s90,1
+3957,S580,148,lenovo_s580,1
+3959,A319,148,lenovo_a319,1
+3962,"K3 Music Lemon",148,lenovo_k3_music_lemon,1
+3971,P70-A,148,lenovo_p70_a,1
+3972,"K3 Note",148,lenovo_k3_note,1
+3973,"S8 4G",148,lenovo_s8_4g,1
+3974,P90,148,lenovo_p90,1
+3975,A6000,148,lenovo_a6000,1
+3976,S60,148,lenovo_s60,1
+3977,A5000,148,lenovo_a5000,1
+3979,A6010,148,lenovo_a6010,1
+3982,A7010,148,lenovo_a7010,1
+3983,"Vibe S1",148,lenovo_vibe_s1,1
+3984,"Phab ROW",148,lenovo_phab,1
+3985,A1000,148,lenovo_a1000,1
+3986,"Phab Plus PB1-770M",148,lenovo_phab_plus,1
+3987,"Vibe X3",148,lenovo_vibe_x3,1
+3989,"P90 Pro",148,lenovo_p90_pro,1
+3990,"Lemon 3 K32C36",148,lenovo_lemon_3_k32c36,1
+3991,"Vibe C A2020",148,lenovo_vibe_c_a2020,1
+3993,K6,148,lenovo_k6,1
+3994,"K6 Power",148,lenovo_k6_power,1
+3995,"K6 Note",148,lenovo_k6_note,1
+3996,"P2 3/32",148,lenovo_p2,1
+3997,"Vibe K5 Note A7020a48",148,lenovo_vibe_k5_note,1
+3998,"Vibe B A2016",148,lenovo_vibe_b_a2016,1
+3999,"A Plus",148,lenovo_a_plus,1
+4000,"Vibe K5 A6020a40",148,lenovo_vibe_k5,1
+4001,A1000m,148,lenovo_a1000m,1
+4002,"Moto G5 XT1676",148,lenovo_moto_g5,1
+4003,"Moto G5 Plus",148,lenovo_moto_g5_plus,1
+4004,"Moto G5s XT1794",148,lenovo_moto_g5s,1
+4005,"Moto G5s Plus XT1805",148,lenovo_moto_g5s_plus,1
+4008,"5C (Europe)",98,huawei_honor_5c_l51,1
+4009,"8 FRD-L09",98,honor_8,1
+4010,"5A L21",98,honor_5a_l21,1
+4011,"Note 8",98,honor_note_8,1
+4012,"6x 3/32",98,honor_6x_2016,1
+4013,"8 Pro",98,honor_v8_pro,1
+4014,"8 Lite PRA-AL00",98,honor_8_lite,1
+4015,"6C DIG-L21HN",98,honor_6c,1
+4016,3,98,huawei_honor_3,1
+4017,3C,98,huawei_honor_3c,1
+4023,"Desire 828",96,htc_desire_828,1
+4025,"Desire EYE",96,htc_desire_eye,1
+4026,"Desire 510",96,htc_desire_510,1
+4029,"One M9",96,htc_one_m9,1
+4030,"Desire 620G",96,htc_desire_620g,1
+4031,"Desire 820",96,htc_desire_820,1
+4033,"Desire 200",96,htc_desire_200,1
+4035,"Desire 500",96,htc_desire_500,1
+4036,"One Dual Sim",96,htc_one_dual_sim,1
+4037,"One Max",96,htc_one_max,1
+4038,"Desire 400 Dual Sim",96,htc_desire_400_dual_sim,1
+4040,"Desire X",96,htc_desire_x,1
+4041,"One X+",96,hts_one_x_plus,1
+4042,8X,96,htc_8x,1
+4045,"Desire SV",96,htc_desire_sv,1
+4047,"One SV",96,htc_one_sv,1
+4049,Titan,96,htc_titan,1
+4050,Radar,96,htc_radar,1
+4051,"Sensation XE",96,htc_sensation_xe,1
+4052,Rhyme,96,htc_rhyme,1
+4053,"Raider 4G",96,htc_raider_4g,1
+4054,"Amaze 4G",96,htc_amaze_4g,1
+4055,Explorer,96,htc_explorer,1
+4056,"7 Surround",96,htc_7_surround,1
+4057,Gratia,96,htc_gratia,1
+4059,"EVO Shift 4G",96,htc_evo_shift_4g,1
+4061,"Inspire 4G",96,htc_inspire_4g,1
+4062,"Desire S",96,htc_desire_s,1
+4063,"Wildfire S",96,htc_wildfire_s,1
+4066,Legend,96,htc_legend,1
+4069,Desire,96,htc_desire,1
+4070,"HD mini",96,htc_hd_mini,1
+4072,Dream,96,htc_dream,1
+4078,"Touch Diamond2",96,htc_touch_diamond2,1
+4079,Magic,96,htc_magic,1
+4089,Artemis,96,htc_artemis_p3300,1
+4098,Gene,96,htc_gene_p3400,1
+4103,U8230,94,huawei_u8230,1
+4107,"Touch HD",96,htc_touch_hd_t8282,1
+4109,"Touch Diamond",96,htc_touch_diamond_p3700,1
+4110,"Touch Cruise",96,htc_touch_cruise_p3650,1
+4115,"U8800 Ideos X5",94,huawei_u8800_ideos_x5,1
+4116,U8110,94,huawei_u8110,1
+4120,U8500,94,huawei_u8500,1
+4121,"U8800H Ideos X5",94,huawei_u8800h_ideos_x5,1
+4122,"U9000 Ideos X6",94,huawei_u9000_ideos_x6,1
+4125,"U8650 Sonic",94,huawei_u8650_sonic,1
+4130,"U8850 Vision",94,huawei_u8850_vision,1
+4132,"U8860 Honor",94,huawei_u8860_honor,1
+4136,Hero,96,htc_hero,1
+4139,Touch2,96,htc_touch2,1
+4141,HD2,96,htc_hd2,1
+4144,"U8800 Ideos X5 Pro",94,huawei_u8800_ideos_x5_pro,1
+4147,"U9500 Ascend D1",94,huawei_u9500_ascend_d1,1
+4149,"U9200 Ascend P1",94,huawei_u9200_ascend_p1,1
+4150,"U8815 Ascend G300",94,huawei_u8815_ascend_g300,1
+4151,Wildfire,96,htc_wildfire,1
+4153,"U8836D G500 Pro",94,huawei_u8836d_g500_pro,1
+4155,"U8950D Ascend G600",94,huawei_u8950d_ascend_g600,1
+4156,"U9508 Honor 2",94,huawei_u9508_honor_2,1
+4160,"U8666E Ascend Y201 Pro",94,huawei_u8666e_ascend_y201_pro,1
+4162,"Desire HD",96,htc_desire_hd,1
+4163,"Desire Z",96,htc_desire_z,1
+4164,HD7,96,htc_hd7,1
+4169,"7 Mozart",96,htc_7_mozart,1
+4170,"U8950 Honor Pro",94,huawei_u8950_honor_pro,1
+4172,"Ascend Y300",94,huawei_y300,1
+4174,"Ascend W1",94,huawei_ascend_w1,1
+4175,"Ascend Mate",94,ascend_mate,1
+4177,"Ascend P6",94,huawei_ascend_p6,1
+4178,"Ascend G510",94,huawei_ascend_g510,1
+4179,"Incredible S",96,htc_incredible_s,1
+4180,"Ascend P2",94,huawei_ascend_p2,1
+4181,"Ascend G700",94,huawei_ascend_g700,1
+4184,"Ascend G610",94,huawei_g610,1
+4185,"Ascend D2",94,huawei_ascend_d2,1
+4186,"Ascend G710",94,huawei_ascend_g710,1
+4187,"Ascend Y511",94,huawei_ascend_y511,1
+4189,ChaCha,96,htc_chacha,1
+4190,Salsa,96,htc_salsa,1
+4192,"EVO 3D",96,htc_evo_3d,1
+4193,Sensation,96,htc_sensation,1
+4195,"Droid Incredible 2",96,htc_droid_incredible_2,1
+4197,"Sensation 4G",96,htc_sensation_4g,1
+4203,"Ascend P7",94,huawei_ascend_p7,1
+4206,"Ascend P6S",94,huawei_ascend_p6_s,1
+4209,"Ascend Mate 7",94,huawei_ascend_mate_7,1
+4210,"Ascend G7",94,huawei_ascend_g7,1
+4212,P8,94,huawei_p8_gra_l09,1
+4213,"P8 Lite",94,huawei_p8_lite,1
+4214,Y5C,94,huawei_y5c,1
+4215,"P8 Max",94,huawei_p8_max,1
+4219,"One S",96,htc_one_s,1
+4220,"One X",96,htc_one_x,1
+4221,"One V",96,htc_one_v,1
+4222,"One XL",96,htc_one_xl,1
+4223,"Desire C",96,htc_desire_c,1
+4224,"Desire V",96,htc_desire_v,1
+4230,"Mate 8 NXT-L29",94,huawei_mate_8_nxt_l29,1
+4231,"Y6 Pro",94,huawei_huawei_y6_pro,1
+4232,"Y6 SCL-L01",94,huawei_y6,1
+4234,Y336-U02,94,huawei_y336_u02,1
+4236,GR5,94,huawei_gr5,1
+4237,"P9 Standart",94,huawei_p9,1
+4238,"P9 Plus VIE-L09",94,huawei_p9_plus,1
+4239,"P9 Lite VNS-L21",94,huawei_p9_lite,1
+4240,GR3,94,huawei_gr3,1
+4241,"Y3 II 4G",94,huawei_y3_ii_4g,1
+4242,"Y5 II CUN-U29",94,huawei_y5_ii,1
+4243,"Y6 II CAM-L21",94,huawei_y6_ii_cam_l21,1
+4244,"Nova CAN-L01\L11",94,huawei_nova,1
+4247,Butterfly,96,htc_butterfly,1
+4250,"Desire 600 DS",96,htc_desire_600_ds,1
+4251,"Butterfly S",96,htc_butterfly_s,1
+4255,"Mate 9 MHA-L09",94,huawei_mate_9,1
+4261,"P8 Lite (2017)",94,huawei_p8_lite_2017,1
+4262,"P10 VTR-L09",94,huawei_p10,1
+4263,"P10 Plus VKY-L09",94,huawei_p10_plus,1
+4264,"P10 Lite WAS-LX1",94,huawei_p10_lite,1
+4267,"Nova 2 Plus 4/64",94,huawei_nova_2_plus,1
+4269,"Nova 2i",94,huawei_nova_2i,1
+4270,"Mate 10 ALP-L09",94,huawei_mate_10,1
+4274,"One (M8)",96,htc_one_m8,1
+4276,"Desire 816",96,htc_desire_816,1
+4278,"Desire 310",96,htc_desire_310,1
+4279,"One (E8) Dual SIM M8Sw, M8Sb, M8Ss, M8Sx",96,htc_one_e8,1
+4280,"One mini 2",96,htc_one_mini_2,1
+4284,"Mate 10 Pro 4/64",94,huawei_mate_10_pro,1
+4285,"Enjoy 7 SLA-TL10",94,huawei_enjoy_7,1
+4286,"Nova lite 2017 SLA-L22",94,huawei_nova_lite_2017,1
+4294,"Desire 626G Dual Sim",96,htc_desire_626g_dual_sim,1
+4295,"One (E9) Plus",96,htc_one_e9_plus,1
+4297,"Desire 326G Dual Sim",96,htc_desire_326g_dual_sim,1
+4298,"One ME Dual Sim",96,htc_one_me_dual_sim,1
+4299,"One M9 Plus",96,htc_one_m9_plus,1
+4300,"Desire 526G Dual Sim",96,htc_desire_526g_dual_sim,1
+4303,"Desire 626",96,htc_desire_626,1
+4305,10,96,htc_10,1
+4306,"Desire 628",96,htc_desire_628,1
+4308,"One A9S",96,htc_one_a9s,1
+4311,6,98,huawei_honor_6,1
+4314,"3c Lite",98,huawei_honor_3c_lite,1
+4315,4x,98,huawei_honor_4x,1
+4316,"4C CHM-U01",98,huawei_honor_4c,1
+4317,"7 PLK-L01",98,huawei_honor_7,1
+4319,"5X KIW-L21",98,huawei_honor_5x,1
+4320,"4C Pro TIT-L01",98,huawei_honor_4c_pro,1
+4321,"5C (China)",98,huawei_honor_5c,1
+4322,"V8 4/32",98,honor_v8,1
+4325,"U Ultra",96,htc_u_ultra,1
+4326,"U Play 3/32",96,htc_u_play,1
+4328,"U11 4/64",96,htc_u11,1
+4331,6A,98,honor_6a,1
+4332,9,98,honor_9,1
+4333,"6C Pro",98,honor_6c_pro,1
+4334,7X,98,honor_7x,1
+4335,"One E9S Dual SIM",96,htc_one_e9s_dual_sim,1
+4336,"View 10 4/64",98,honor_v10,1
+4344,"Cirrus 4 FS507",68,fly_cirrus_4_fs507,1
+4345,"Nimbus 8 FS 454",68,fly_nimbus_8_fs_454,1
+4346,"Cirrus 11",68,fly_cirrus_11,1
+4347,"Stratus 6 FS407",68,fly_stratus_6_fs407,1
+4348,"Nimbus 9 FS509",68,fly_nimbus_9_fs509,1
+4351,"Evo Energy 5 IQ4504",68,fly_iq4504_evo_energy_5,1
+4353,"Era Life 3 IQ4491",68,fly_iq4491_quad_era_life_3,1
+4355,"Evo Energie 4 IQ4501",68,fly_iq4501_evo_energie_4,1
+4356,"Era Life 2 IQ456",68,fly_iq456_era_life_2,1
+4357,"Era Life 5 IQ4416",68,fly_iq4416_era_life_5,1
+4360,"Evo Chic 3 IQ4413",68,fly_iq4413_quad_evo_chic_3,1
+4361,"Glory IQ431",68,fly_iq431_glory,1
+4362,"Evo Tech 1 IQ454",68,fly_iq454_evo_tech_1,1
+4363,"Magic IQ446",68,fly_iq446_magic,1
+4366,"Evoke IQ430",68,fly_iq430_evoke,1
+4367,"Spark IQ4404",68,fly_iq4404_spark,1
+4371,"Radiance IQ441",68,fly_iq441_radiance,1
+4372,"Wizard Plus IQ245+",68,fly_iq245plus_wizard_plus,1
+4373,"Miracle IQ442",68,fly_iq442_miracle,1
+4374,"Energie IQ440",68,fly_iq440_energie,1
+4375,TS100,68,fly_ts100,1
+4376,"Horizon IQ450",68,fly_iq450_horizon,1
+4380,"E190 Wi-Fi",68,fly_e190_wi_fi,1
+4381,"Swift IQ250",68,fly_iq250_swift,1
+4386,OD1,68,fly_od1,1
+4408,"Turbo IQ285",68,fly_iq285,1
+4410,"Wizard IQ245",68,fly_iq245_wizard,1
+4411,"Uno IQ235",68,fly_iq235_uno,1
+4412,"Pride IQ255",68,fly_iq255_pride,1
+4414,"Vogue IQ256",68,fly_iq256_vogue,1
+4415,"Diamond IQ444",68,fly_iq444_diamond,1
+4416,"Vista IQ451",68,fly_iq451_vista,1
+4417,"Trend IQ443",68,fly_iq443_trend,1
+4419,DS124,68,fly_ds124,1
+4420,"Genius IQ445",68,fly_iq445_genius,1
+4421,"Diamond 2 IQ444",68,fly_iq444_quattro,1
+4422,"Quad Phoenix IQ4410",68,fly_iq4410_quad_phoenix,1
+4426,"Energie 3 IQ4403",68,fly_iq4403_energie_3,1
+4427,"Pronto IQ449",68,fly_iq449_pronto,1
+4432,"Evo Chiс 1 IQ4405",68,fly_iq4405_evo_chis_1,1
+4433,"Era Nano 7  IQ4407",68,fly_iq4407_era_nano_7,1
+4434,"Era Style 3 IQ4415",68,fly_iq4415_era_life_3,1
+4435,"Phoenix 2 IQ4410i",68,fly_iq4410i_phoenix2,1
+4436,"Era Nano 4 IQ4490",68,fly_iq4490_era_nano_4,1
+4440,"Evo Tech 3 IQ4414",68,fly_iq4414_evo_tech_3,1
+4442,"Era Energy 2 IQ4401",68,fly_iq4401_era_energy_2,1
+4444,"ERA Nano 10 IQ4490i",68,fly_iq4490i_era_nano_10,1
+4445,"Evo Tech 4 IQ4514",68,fly_iq4514_quad_evo_tech4,1
+4450,"ERA Life 7 Quad IQ4505",68,fly_iq4505_era_life_7_quad,1
+4451,"Quad ERA Energy 1 IQ4502",68,fly_quad_era_energy_1_iq4502,1
+4452,"Tornado Slim IQ4516",68,fly_iq4516_tornado_slim,1
+4453,"Quad EVO Energy 1 IQ4515",68,fly_iq4515_quad_evo_energy_1,1
+4454,"Nimbus 3 FS501",68,fly_fs501_nimbus_3,1
+4455,"FS401 Stratus 1",68,fly_fs401,1
+4456,"Cirrus 1 FS502",68,fly_fs502_cirrus_1,1
+4457,"Cirrus 2 FS504",68,fly_cirrus_2_fs504,1
+4458,"Nimbus 2 FS452",68,fly_nimbus_2_fs452,1
+4459,"Nimbus 1 FS451",68,fly_nimbus_1_fs451,1
+4461,"Nimbus 7 FS505",68,fly_fs505_nimbus_7,1
+4462,"Cirrus 8 FS514",68,fly_cirrus_8_fs514,1
+4464,"Cirrus 6",68,fly_cirrus_6,1
+4467,"Nimbus 15 FS457",68,fly_nimbus_15,1
+4474,"P6000 Pro",60,elephone_p6000_pro,1
+4475,P9000,60,elephone_p9000,1
+4477,M2,60,elephone_m2,1
+4479,Trunk,60,elephone_trunk,1
+4487,P3000S,60,elephone_p3000s,1
+4488,P6000,60,elephone_p6000,1
+4489,G4,60,elephone_g4,1
+4492,P5000,60,elephone_p5000,1
+4493,P7000,60,elephone_p7000,1
+4495,P8000,60,elephone_p8000,1
+4498,Vowney,60,elephone_vowney,1
+4499,M3,60,elephone_m3,1
+4501,S7,60,elephone_s7,1
+4505,"P8 mini",60,elephone_p8_mini,1
+4506,S8,60,elephone_s8,1
+4508,X5S,54,doogee_x5s,1
+4509,"X6 Pro",54,doogee_x6_pro,1
+4510,T5,54,doogee_t5,1
+4511,Y6,54,doogee_y6,1
+4512,"T5 S",54,doogee_t5_s,1
+4513,"X9 Pro",54,doogee_x9_pro,1
+4514,"X9 Mini",54,doogee_x9_mini,1
+4516,"X5 Max",54,doogee_x5_max,1
+4525,"Voyager 2",54,doogee_voyager_2_dg310,1
+4527,"Titans 2",54,doogee_titans_2,1
+4528,KissMe,54,doogee_dg580,1
+4529,Leo,54,doogee_dg280_leo,1
+4533,"Valencia 2 Y100 Pro",54,doogee_valencia_2_y100_pro,1
+4535,NOVA,54,doogee_nova_y100x,1
+4536,X5,54,doogee_x5,1
+4538,"X5 Pro Galicia",54,doogee_x5_pro,1
+4539,F5,54,doogee_f5,1
+4540,X6,54,doogee_x6,1
+4542,X3,54,doogee_x3,1
+4543,Y300,54,doogee_y300,1
+4545,"T6 Pro",54,doogee_t6_pro,1
+4546,"F7 Pro",54,doogee_f7_pro,1
+4547,"X5 Max Pro",54,doogee_x5_max_pro,1
+4549,"Y6 Max",54,doogee_y6_max,1
+4550,"X7 Pro",54,doogee_x7_pro,1
+4551,"Shoot 1",54,doogee_shoot_1,1
+4552,"Shoot 2 1/8",54,doogee_shoot_2,1
+4553,X10,54,doogee_x10,1
+4555,BL5000,54,doogee_bl5000,1
+4556,S60,54,doogee_s60,1
+4558,BL7000,54,doogee_bl7000,1
+4559,X30,54,doogee_x30,1
+4561,"Mix Lite",54,doogee_mix_lite,1
+4562,X20,54,doogee_x20,1
+4569,H2,48,cubot_h2,1
+4571,S550,48,cubot_s550,1
+4574,Dinosaur,48,cubot_dinosaur,1
+4575,Rainbow,48,cubot_rainbow,1
+4586,S200,48,cubot_s200,1
+4588,S208,48,cubot_s208,1
+4594,H1,48,cubot_h1,1
+4596,"Note S",48,cubot_note_s,1
+4599,Manito,48,cubot_manito,1
+4600,Echo,48,cubot_echo,1
+4601,Max,48,cubot_max,1
+4604,Magic,48,cubot_magic,1
+4605,R9,48,cubot_r9,1
+4606,H3,48,cubot_h3,1
+4611,"BQ-5504 Strike Selfie Max",36,bq_5504_strike_selfie_max,1
+4615,"BQ-5057 Strike 2",36,bq_5057_strike_2,1
+4617,"BQ-5201 Space",36,bq_5201_space,1
+4621,"S-3510 Aspen Mini",36,bq_s_3510_aspen_mini,1
+4623,"BQS-4525 Vienna",36,bq_mobile_bqs_4525_vienna,1
+4625,"BQS-5520 Mercury",36,bq_bqs_5520_mercury,1
+4629,"BQS-5020 Strike",36,bq_bqs_5020_strike,1
+4631,"Magic BQS-5070",36,bq_mobile_magic,1
+4633,"BQ-5032 Element",36,bq_mobile_bq_5032_element,1
+4634,"BQS-4800 Blade",36,bq_mobile_bqs_4800_blade,1
+4639,"BQ-5510 Strike Power Max 4G",36,bq_mobile_bq_5510_strike_power_max_4g,1
+4641,"BQ-4500L Fox LTE",36,bq_mobile_bq_4500l_fox_lte,1
+4647,"BQ-4526 Fox",36,bq_mobile_bq_4526_fox,1
+4649,"BQ-5001L Contact",36,bq_mobile_bq_5001l_contact,1
+4651,"BQ-5008L Brave",36,bq_mobile_bq_5008l_brave,1
+4653,"BQ-5512L Strike Forward",36,bq_strike_forward_bq_5512l,1
+4661,"Omega Pro",32,blackview_omega_pro,1
+4662,BV5000,32,blackview_bv5000,1
+4664,A5,32,blackview_a5,1
+4665,A8,32,blackview_a8,1
+4666,"Ultra Plus",32,blackview_ultra_plus,1
+4668,BV6000,32,blackview_bv6000,1
+4670,BV6000s,32,blackview_bv6000s,1
+4671,"A8 Max",32,blackview_a8_max,1
+4673,R6,32,blackview_r6,1
+4675,P2,32,blackview_p2,1
+4677,"BV7000 Pro",32,blackview_bv7000_pro,1
+4678,"P2 Lite",32,blackview_p2_lite,1
+4679,"BV8000 Pro",32,blackview_bv8000_pro,1
+4681,A7,32,blackview_a7,1
+4687,"Shine Lite OT-5080X",19,alcatel_shine_lite,1
+4688,"POP STAR 4G OT-5070D",19,alcatel_pop_star_4g_ot_5070d,1
+4689,"Pixi 4 (5) OT-5010D",19,alcatel_pixi_4_5_ot_5010d,1
+4692,"IDOL 4S Windows 10",19,alcatel_idol_4s_windows_10,1
+4696,"OT-6039Y Idol 3 (4.7)",19,alcatel_idol_3_4_7,1
+4697,"Idol 3 OT-6045Y",19,alcatel_ot_6045y_idol_3,1
+4698,"Pixi First OT-4024D",19,alcatel_alcatel_pixi_first_ot_4024d,1
+4700,"OT- 5022D Pop Star",19,alcatel_ot_5022d_pop_star,1
+4702,"POP 3 OT-5015X",19,alcatel_pop_3_ot_5015x,1
+4703,"POP C2 OT-4032D",19,alcatel_ot_4032d_pop_c2,1
+4704,"POP 2 OT-5042D",19,alcatel_ot_5042_pop_2,1
+4705,"Idol 2 Mini S OT-6036Y",19,alcatel_ot_6036y_idol_2_mini_s,1
+4708,"Hero 2 OT-8030Y",19,alcatel_ot_8030y_hero_2,1
+4711,"POP C5  OT-5036D",19,alcatel_ot_5036d_pop_c5,1
+4712,"POP C7 OT-7041D",19,alcatel_ot_7041d_pop_c7,1
+4715,"Idol X+ OT-6043D",19,alcatel_ot_950_idol_x,1
+4716,"Idol 2 Mini  OT-6016X",19,alcatel_ot_6016x_idol_2_mini,1
+4719,OT-992D,19,alcatel_ot_992d,1
+4721,"Scribe HD OT-8008D",19,alcatel_one_touch_scribe_hd_ot_8008d,1
+4733,OT-880,19,alcatel_onetouch_880,1
+4736,OT-606,19,alcatel_onetouch_606,1
+4739,OT-908,19,alcatel_ot_908,1
+4740,OT-990,19,alcatel_ot_990,1
+4745,OT-918D,19,alcatel_ot_918d,1
+4748,OT-818,19,alcatel_ot_818,1
+4753,OT-995,19,alcatel_ot_995,1
+4754,OT-986,19,alcatel_ot_986,1
+4761,OT-993D,19,alcatel_ot_993d,1
+4763,OT-997D,19,alcatel_ot_997d,1
+4768,"Idol X OT-6040",19,alcatel_ot_6040,1
+4770,"Idol Mini OT-6012",19,alcatel_one_touch_idol_mini,1
+4771,"Idol S OT-6035R",19,alcatel_ot_6035r_idol_s,1
+4772,"Hero OT-8020D",19,alcatel_ot_8020d_hero,1
+4778,"Idol 2 Mini L OT-6014X",19,alcatel_ot_6014_idol_2_mini_l,1
+4779,"Idol 2 OT-6037Y",19,alcatel_ot_6037y_idol_2,1
+4780,"Idol 2S OT-6050Y",19,alcatel_ot_6050y_idol_2s,1
+4782,"POP 2 (4) OT-4045D",19,alcatel_ot_4045d_pop_2_4,1
+4783,"POP 2 Premium OT-7044X",19,alcatel_ot_7044x_pop_2,1
+4785,"PIXI 3 OT-4027D",19,alcatel_ot_4027d_pixi_3,1
+4786,"POP 3 OT-5025D",19,alcatel_ot_5025d_pop_3,1
+4787,"OT-6044D Pop Up",19,alcatel_ot_6044d_pop_up,1
+4788,"Pixi 3 (3.5) OT-4009D",19,alcatel_pixi_3_3_5_ot_4009d,1
+4790,"Idol 4 BlackBerry DTEK50",19,alcatel_idol_4,1
+4791,"Idol 4S",19,alcatel_idol_4s,1
+4793,"Pixi 4 (4.0) OT-4034D",19,alcatel_ot_4034d_pixi_4_4_0,1
+4794,"POP 4 Slate OT-5051D",19,alcatel_pop_4_slate_ot_5051d,1
+4796,"PIXI 4(6) OT-8050D",19,alcatel_pixi_4_6_ot_8050d,1
+4797,"POP 4S OT-5095K",19,alcatel_alcatel_pop_4s_ot_5095k,1
+4798,"POP 4+ OT-5056D",19,alcatel_pop_4_plus_ot_5056d,1
+4800,"A3 5046Y/D/J",19,alcatel_a3,1
+4803,"Idol 5 6058D",19,alcatel_idol_5,1
